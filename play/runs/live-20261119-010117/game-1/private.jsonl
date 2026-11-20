@@ -1,0 +1,392 @@
+{"tick": 5.0, "pid": "P3", "screen": "rt_roam", "thought": "Start with the quick check-in task in the Office; everyone is still in the Galley, so I'll watch who moves where."}
+{"tick": 5.0, "pid": "P5", "screen": "rt_roam", "thought": "Start with an easy task: check in at the Office terminal. Watch who is near and stay alert for impostor behavior."}
+{"tick": 5.0, "pid": "P1", "screen": "rt_roam", "thought": "Everyone is gathered in the Galley. I'll head to the Office to start my first task, check_in, and watch who is around."}
+{"tick": 5.0, "pid": "P4", "screen": "rt_roam", "thought": "Start on my task check_in in the Office; it's quiet and I can watch who moves around the admin console."}
+{"tick": 5.1, "pid": "P6", "screen": "rt_roam", "thought": "Start my tasks: check_in is in the Office, which is close. Everyone is in the Galley right now, so I'll move away and stay alert for bodies."}
+{"tick": 5.1, "pid": "P2", "screen": "rt_roam", "thought": "Start my task at the Office check-in terminal; everyone is gathered in the Galley so I'll move away and keep an eye on who is near me."}
+{"tick": 5.8, "pid": "P7", "screen": "rt_roam", "thought": "Start with the easy check-in task in the Office, away from the crowd in the Galley."}
+{"tick": 7.3, "pid": "P7", "screen": "rt_roam", "thought": "I'm auto-walking to Office for the check-in task. Keep going; it's a quick task and I'll watch who is near."}
+{"tick": 7.5, "pid": "P1", "screen": "rt_roam", "thought": "I'm auto-walking to the Office to check in, which is a task. Keep the current order and watch who is near."}
+{"tick": 7.5, "pid": "P3", "screen": "rt_roam", "thought": "I'm in the Office now; the task list has Water the plants in Garden. Heading there to do it while watching who is around."}
+{"tick": 7.5, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Office now, auto-walking there for my check-in task. Keep the current order and watch who is near."}
+{"tick": 7.8, "pid": "P4", "screen": "rt_roam", "thought": "Heading to my check-in task in the Office; Purple is here too, so I'll keep an eye on who is around."}
+{"tick": 8.1, "pid": "P6", "screen": "rt_roam", "thought": "Heading toward the Clinic for the health scan task while staying with the group's movement; I'll watch who is near me."}
+{"tick": 8.4, "pid": "P5", "screen": "rt_roam", "thought": "Check-in task is in the Office, spot to the west. Heading there to do it while keeping an eye on who is around."}
+{"tick": 8.7, "pid": "P7", "screen": "rt_roam", "thought": "I'm auto-walking to Office, where the check_in task is. Keep going and do the check-in task first."}
+{"tick": 9.1, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Office, auto-walking to my check-in task spot. Everyone is gathering around here. Keep my current order and watch who is near me."}
+{"tick": 9.2, "pid": "P1", "screen": "rt_roam", "thought": "Check room occupancy in the Office to track who is where; my check-in task is here too."}
+{"tick": 9.3, "pid": "P4", "screen": "rt_roam", "thought": "I'm in the Office next to the check-in terminal, and the task spot is 20 units east. Checking in is a quick task and it's available right here, so I'll start it now."}
+{"tick": 9.5, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Clinic for the health scan task; keep going and do tasks while watching who is near."}
+{"tick": 9.9, "pid": "P3", "screen": "rt_roam", "thought": "I'm already in the Office. Going to the task spot here to do check_in while the others are around. Then I'll head for the Garden tasks."}
+{"tick": 10.6, "pid": "P5", "screen": "rt_roam", "thought": "I'm in the Office, and the check-in task is here. Walking W was taking me away from the task spot, so I'll go to the task spot. Crowd of crew around me, good for safety."}
+{"tick": 10.6, "pid": "P2", "screen": "rt_roam", "thought": "I'm in Office with Pink nearby; check_in is a quick 3s task at the terminal. Doing it helps crew progress and keeps me visibly on task."}
+{"tick": 10.6, "pid": "P1", "screen": "rt_roam", "thought": "I'm at the task spot in Office for check_in (3s). Doing it to make progress and look like crew."}
+{"tick": 11.0, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Clinic for the health scan task; keep going and watch for bodies and who is near."}
+{"tick": 11.0, "pid": "P4", "screen": "rt_roam", "thought": "Currently doing check_in with 2 s left; keep the order so the task completes. Others are nearby in the Office, so staying put is safe."}
+{"tick": 11.0, "pid": "P7", "screen": "rt_roam", "thought": "I'm in the Office and the check_in terminal is 26 units SW. Walking there to start the task and stay near others."}
+{"tick": 11.3, "pid": "P3", "screen": "rt_roam", "thought": "Auto-walking to Office for the check-in task; Blue and Pink are there. Keep doing tasks and watch who is near me."}
+{"tick": 12.0, "pid": "P2", "screen": "rt_roam", "thought": "Currently finishing check_in in Office with 2 s left. Keep doing it; watch who is near me."}
+{"tick": 12.0, "pid": "P1", "screen": "rt_roam", "thought": "I'm finishing check_in in the Office with several workers nearby. Keep the current order so the task completes."}
+{"tick": 12.1, "pid": "P5", "screen": "rt_roam", "thought": "I'm in Office near the check-in terminal spot (SW 12). Other workers are around me doing tasks, so I should stay and complete my task while watching who is nearby."}
+{"tick": 12.5, "pid": "P4", "screen": "rt_roam", "thought": "I'm finishing check_in with about 1 second left. I'll keep my current order and watch who is near me."}
+{"tick": 12.7, "pid": "P3", "screen": "rt_roam", "thought": "I'm already heading to the Office to do the check-in task. Others are gathering there too, so I'll stay near them and keep an eye on who is around."}
+{"tick": 13.0, "pid": "P7", "screen": "rt_roam", "thought": "I'm in the Office, and check_in is a 3-second task here. Walking to its task spot so I can do it and stop wandering."}
+{"tick": 13.4, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Clinic for the health scan task; no bodies or threats seen. Keep the current order and watch for others."}
+{"tick": 14.0, "pid": "P4", "screen": "rt_roam", "thought": "Heading to Cargo to do my sort_crates task; the group is in the Office and I want to keep track of who is near me."}
+{"tick": 14.2, "pid": "P3", "screen": "rt_roam", "thought": "I'm in the Office at the check-in task spot area; the task takes 3 seconds and I'm near the task spot. Completing tasks helps crew and shows I'm working."}
+{"tick": 14.4, "pid": "P7", "screen": "rt_roam", "thought": "I'm in Office at the terminal spot area; check_in is a quick 3s task. Other players are nearby, so doing a visible task helps prove I'm crew."}
+{"tick": 14.5, "pid": "P2", "screen": "rt_roam", "thought": "Deliver samples task is in Lab, 4.5s remaining. Heading there to make progress on tasks while watching who is around."}
+{"tick": 14.6, "pid": "P1", "screen": "rt_roam", "thought": "I'm in the Office with several crew nearby. I have tasks left: count stock in the Vault, deliver samples in the Lab, sharpen tools in the Workshop. Heading to the Vault for a task while watching who is near me."}
+{"tick": 14.9, "pid": "P6", "screen": "rt_roam", "thought": "I'm crew and already auto-walking to Clinic for the health scan. Keep the current order and watch for anyone nearby."}
+{"tick": 16.4, "pid": "P4", "screen": "rt_roam", "thought": "Auto-walking to Cargo already, which has my Sort crates task. Keep the order and keep an eye on who is near me."}
+{"tick": 16.8, "pid": "P6", "screen": "rt_roam", "thought": "I'm already heading to Clinic. Going there explicitly to reach the health scan task spot."}
+{"tick": 17.0, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Vault for a task is fine. Keep current order and watch who is near me; no bodies yet."}
+{"tick": 17.3, "pid": "P5", "screen": "rt_roam", "thought": "Kill is not ready for 12s and I'm in a room full of crew. Stay calm, keep my current order, and look for a lone target once the cooldown ends. Orange is nearby, so avoid being seen with them."}
+{"tick": 17.3, "pid": "P2", "screen": "rt_roam", "thought": "Auto-walking to Lab for my deliver_samples task is already set. Keep the order and finish tasks quietly."}
+{"tick": 17.6, "pid": "P3", "screen": "rt_roam", "thought": "I'm in Office at the task spot with 0s left on check_in. Finishing it keeps me looking like a normal crew member. Purple and Pink are nearby, so I'll watch who is around."}
+{"tick": 17.8, "pid": "P7", "screen": "rt_roam", "thought": "I'm currently doing check_in with 0s left; keep the order so it completes. Stay put and continue tasks."}
+{"tick": 18.2, "pid": "P6", "screen": "rt_roam", "thought": "I'm in Clinic at the task spot, health scan is here. Start it and stay still."}
+{"tick": 18.3, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Vault for count_stock; keep the current order and watch who is near me."}
+{"tick": 18.6, "pid": "P2", "screen": "rt_roam", "thought": "Auto-walking to Lab for my deliver_samples task; keep the current order and watch who is near."}
+{"tick": 18.7, "pid": "P4", "screen": "rt_roam", "thought": "Auto-walking to Cargo where Blue is. Kill isn't ready for 11s and Blue is 9 away. Keep the current order, then kill Blue only when no one else is in sight."}
+{"tick": 18.8, "pid": "P5", "screen": "rt_roam", "thought": "I'm in the Office with Green and Pink nearby, no bodies. Kill cooldown is 10s. Best to stay calm and blend in with the group rather than move alone; I'll wait for a safer moment to act."}
+{"tick": 19.2, "pid": "P7", "screen": "rt_roam", "thought": "Crew task rinse_samples is in Lab. Heading there to finish it while watching for anyone acting suspicious."}
+{"tick": 19.2, "pid": "P3", "screen": "rt_roam", "thought": "Tasks remain: route coolant at Pumps, water plants in Garden, sharpen tools in Workshop. Pumps is nearby via Boiler and it is also a pressure fix spot, so I'll head there and do my task while watching who is around."}
+{"tick": 20.6, "pid": "P4", "screen": "rt_roam", "thought": "No one is near and my kill isn't ready for 8s. I'm in Cargo, where Sort crates is, so I'll fake that task to look like crew while I wait for the kill cooldown."}
+{"tick": 20.6, "pid": "P1", "screen": "rt_roam", "thought": "I'm auto-walking to Vault to count stock, a task I still need. Nobody suspicious is near me right now, so I'll keep my current order and watch for bodies or meeting calls."}
+{"tick": 21.1, "pid": "P2", "screen": "rt_roam", "thought": "Water the plants is in Garden and its spot is close, SE of me. Going to the Garden task spot now, then I'll head to Lab for samples."}
+{"tick": 21.3, "pid": "P3", "screen": "rt_roam", "thought": "Still auto-walking to Pumps for my coolant task. Keep the current order and stay with the crew."}
+{"tick": 21.4, "pid": "P7", "screen": "rt_roam", "thought": "Auto-walking to Lab for the rinse_samples task. Keep doing tasks and watch who is near me."}
+{"tick": 22.0, "pid": "P1", "screen": "rt_roam", "thought": "I'm auto-walking to Vault to count stock, a valid task. Keep the current order and watch for suspicious movement."}
+{"tick": 22.1, "pid": "P4", "screen": "rt_roam", "thought": "I'm in Cargo doing sort_crates with 5s left; finishing it keeps me looking like a crew member. Kill cooldown is 7s, so I'll wait and watch for a lone target."}
+{"tick": 22.2, "pid": "P6", "screen": "rt_roam", "thought": "I'm in Clinic doing health_scan with 3 seconds left. Keep still and finish it."}
+{"tick": 22.2, "pid": "P5", "screen": "rt_roam", "thought": "Kill cooldown is 7s left. Pink is nearby in Cargo, but Green is also close and Orange is my partner. I'll wait for a clean chance to kill without witnesses and keep my cover by staying in the Office."}
+{"tick": 22.8, "pid": "P7", "screen": "rt_roam", "thought": "Auto-walking to Lab for my rinse_samples task; keep the current order and watch who is near."}
+{"tick": 23.3, "pid": "P1", "screen": "rt_roam", "thought": "I'm auto-walking to Vault to count stock, which is a valid task. Keep the current order and watch who is near me."}
+{"tick": 23.5, "pid": "P6", "screen": "rt_roam", "thought": "I'm at the Clinic task spot for health_scan with 1 second left. Stay still and finish it."}
+{"tick": 23.5, "pid": "P3", "screen": "rt_roam", "thought": "Auto-walking to Pumps to route coolant; keep the current order and watch for who is near."}
+{"tick": 24.1, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Garden and the water_plants task is listed as doable here. Staying put to finish it."}
+{"tick": 24.5, "pid": "P5", "screen": "rt_roam", "thought": "No one is near and my kill isn't ready for 5 s. I'll hold position in the Office, stay quiet, and look for a lone crewmate once the kill timer is up."}
+{"tick": 24.7, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Vault to count stock, a task I need to finish. Keep current order and watch who is near."}
+{"tick": 25.3, "pid": "P7", "screen": "rt_roam", "thought": "I'm in the Garden and the watering task is available here, so I'll finish it while Blue is nearby doing their own task."}
+{"tick": 25.6, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Garden watering plants with 5 seconds left. Pink is nearby but not a threat yet. Keep the current task going."}
+{"tick": 25.7, "pid": "P3", "screen": "rt_roam", "thought": "I'm at Pumps and my walk there is still in progress. The Route coolant task is here, so I'll let the walk finish and then start the task."}
+{"tick": 25.7, "pid": "P6", "screen": "rt_roam", "thought": "Check in at the Office terminal is a quick crew task; I'm in Clinic, so I'll head there and keep an eye on who is around."}
+{"tick": 25.7, "pid": "P4", "screen": "rt_roam", "thought": "Nobody is near me. I'll finish the sort_crates task to look like a normal crewmate, then watch for a lone target once my kill is ready in about 3 seconds."}
+{"tick": 26.3, "pid": "P1", "screen": "rt_roam", "thought": "I'm crew and already auto-walking to the Vault for the count_stock task. Keep the current order and stay alert for anyone acting suspicious."}
+{"tick": 27.1, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Office already; keep going to finish the check-in task and stay with the flow of the crew."}
+{"tick": 27.5, "pid": "P5", "screen": "rt_roam", "thought": "Kill ready in 2s, but nobody is near me. I'll hold in the Office and watch for a lone crewmate. Orange is my partner, so I shouldn't be seen with them."}
+{"tick": 27.5, "pid": "P7", "screen": "rt_roam", "thought": "Water the plants is in Garden and its spot is 94 units west. Heading there now instead of auto-walking to Lab, and I'll do Lab's rinse task afterward."}
+{"tick": 27.8, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant is in Pumps and its spot is NW of me. Walking there to start the task. Staying alert for impostors."}
+{"tick": 27.8, "pid": "P1", "screen": "rt_roam", "thought": "I'm in the Vault and the count_stock task spot is here (NE 17 nearby, but it's listed as the task here). Doing the vault count now while no one is near."}
+{"tick": 27.8, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Garden at the task spot, watering plants with 3s left. Keep still to finish it."}
+{"tick": 28.4, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Office for check_in task; keep current order and watch for sightings."}
+{"tick": 29.0, "pid": "P4", "screen": "rt_roam", "thought": "I'm in Cargo alone with nobody near. Fake the crate sorting task to look busy while I wait for a chance to kill."}
+{"tick": 29.2, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Garden at the task spot, watering plants with 2 s left. Staying still to finish it."}
+{"tick": 30.2, "pid": "P6", "screen": "rt_roam", "thought": "I'm crew and already auto-walking to the Office to check in, which is one of my remaining tasks. Keep the order and watch for anyone nearby."}
+{"tick": 30.6, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant task is in Pumps, spot is to the SE. Heading there to start it."}
+{"tick": 31.6, "pid": "P2", "screen": "rt_roam", "thought": "Two tasks left nearby: deliver samples in Lab (about 4.5s) and log weather in Radio. Lab is east of Garden, so I'll head there and finish the sample delivery while watching who is near."}
+{"tick": 31.6, "pid": "P6", "screen": "rt_roam", "thought": "I'm crew, auto-walking to Office for the check-in task. Keep working on tasks and watch who is near me."}
+{"tick": 31.6, "pid": "P7", "screen": "rt_roam", "thought": "I'm on the Garden/Lab border with no one near. Water the plants in Garden next, since it's the closest unfinished task. Then rinse samples in Lab and the antenna in Workshop."}
+{"tick": 31.7, "pid": "P5", "screen": "rt_roam", "thought": "Nobody is near me in the Office and no kill is in reach. Holding here keeps my position quiet until a crewmate comes within range. Orange is my partner, so I'll avoid walking into a crowd."}
+{"tick": 31.8, "pid": "P1", "screen": "rt_roam", "thought": "Finishing count_stock in the Vault, 1 second left. Keep the current order so the task completes."}
+{"tick": 32.0, "pid": "P4", "screen": "rt_roam", "thought": "I'm an impostor with Purple. Pink is nearby but far away. Keep doing the fake sort_crates task for cover and wait for a kill opportunity."}
+{"tick": 32.9, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Office for check_in task; keep current order."}
+{"tick": 32.9, "pid": "P7", "screen": "rt_roam", "thought": "Heading to Garden to water the plants, a task on my list. Blue is there; I'll keep an eye on who is near me."}
+{"tick": 33.1, "pid": "P5", "screen": "rt_roam", "thought": "I'm an impostor in the Office with no one near. Kill cooldown is ready but no target is in reach. Wait for a crewmate to wander close, and avoid suspicious moves."}
+{"tick": 33.2, "pid": "P1", "screen": "rt_roam", "thought": "I'm a crew member in the Vault with tasks left: deliver samples in Lab (4.5s) and sharpen tools in Workshop. Lab is the closer unfinished task, so I'll head there first and keep an eye out for anyone near me."}
+{"tick": 33.5, "pid": "P4", "screen": "rt_roam", "thought": "I'm in Cargo doing a fake sort_crates task with 2 s left. Keep the cover task going, then look for a lone crewmate to kill once the kill is ready."}
+{"tick": 34.3, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Office for check_in task. Keep current order and see who is nearby."}
+{"tick": 34.7, "pid": "P5", "screen": "rt_roam", "thought": "Kill is ready but no crewmate is near me. Only Teal is visible far east. I'll hold in the Office and watch for a lone target before acting."}
+{"tick": 34.8, "pid": "P2", "screen": "rt_roam", "thought": "I'm auto-walking to Lab to deliver samples, which is an unfinished task. Keep the current order and watch for anyone near me."}
+{"tick": 35.0, "pid": "P3", "screen": "rt_roam", "thought": "My route_coolant task spot is NW of me in Pumps. Walking there to start it, and I'll stay away from anyone acting suspicious."}
+{"tick": 35.3, "pid": "P7", "screen": "rt_roam", "thought": "Water the plants is my task in the Garden; the spot is 15 units SE. Walking there to start it. Blue is nearby but far off, so no threat yet."}
+{"tick": 35.5, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Lab for deliver_samples, which is on my route. No bodies nearby. Keep the current order and watch for who is near me."}
+{"tick": 35.9, "pid": "P6", "screen": "rt_roam", "thought": "Auto-walking to Office for the check_in task there. Purple is nearby but no sign of anything wrong. Keep the current order and finish the task."}
+{"tick": 36.5, "pid": "P2", "screen": "rt_roam", "thought": "I'm at the Lab task spot; finishing deliver_samples builds crew progress and gives a visible alibi while I stay put."}
+{"tick": 36.8, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Lab to deliver samples; no bodies or alerts nearby. Keep current order."}
+{"tick": 37.1, "pid": "P7", "screen": "rt_roam", "thought": "I'm in the Garden and the water_plants task is offered as doable now. Staying still to finish it."}
+{"tick": 37.4, "pid": "P5", "screen": "rt_roam", "thought": "Teal is 14 away, too far to kill. Kill is ready, so I'll hold in the Office and strike only when someone is alone within reach."}
+{"tick": 37.4, "pid": "P6", "screen": "rt_roam", "thought": "I'm in the Office and the check_in task is right here. Completing it is useful progress, and Purple is nearby, so I'll stay visible and keep working."}
+{"tick": 37.7, "pid": "P4", "screen": "rt_roam", "thought": "Nobody is near me and my kill is ready, but there is no target. I'll fake the Cargo task to look busy while I wait for Purple or a crewmate to come by."}
+{"tick": 38.1, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Lab to deliver samples; keep current order and watch for bodies."}
+{"tick": 38.6, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant is in Pumps and the task spot is SW of me. go:Pumps should stop me at the task spot so I can finish it."}
+{"tick": 39.6, "pid": "P5", "screen": "rt_roam", "thought": "Teal is alone with me in the Office, within reach and my kill is ready. Taking the kill now while no one else is near."}
+{"tick": 40.4, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Lab to deliver samples; no bodies known, keep current order and stay on tasks."}
+{"tick": 40.6, "pid": "P2", "screen": "rt_roam", "thought": "Mid-task on deliver_samples with 1 s left; staying still to finish it. Red is far away in Watch Room area."}
+{"tick": 40.7, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll keep still and watch what I can."}
+{"tick": 41.2, "pid": "P7", "screen": "rt_roam", "thought": "Still doing water_plants with 3s left; keep the current order and finish the task."}
+{"tick": 41.5, "pid": "P4", "screen": "rt_roam", "thought": "Nobody is near and my kill is ready, but there is no target in reach. I'll stay in Cargo and let the crate sort finish so I look like a normal crewmate. Then I'll look for a lone crewmate."}
+{"tick": 41.9, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Lab for deliver_samples. Keep the order and watch who is near Blue."}
+{"tick": 42.2, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant is in Pumps but the task spot is about 16 units NW of me. go:Pumps should walk me to the task spot, then I can do it."}
+{"tick": 42.6, "pid": "P2", "screen": "rt_roam", "thought": "Two tasks left: log_weather in Radio (short) and deliver_samples in Clinic. Radio is closest via Archive, so I'll go there first. Red is nearby in the Lab, but nothing suspicious yet."}
+{"tick": 42.7, "pid": "P5", "screen": "rt_roam", "thought": "I was the only one near Teal when the body appeared. Reporting now puts me under suspicion, so I'll leave the room and let the crew find the body later."}
+{"tick": 43.9, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll keep still and watch the game state."}
+{"tick": 44.5, "pid": "P7", "screen": "rt_roam", "thought": "I'm in the Garden with no one near. Rinse samples is a 1-step task in the Lab, so I'll head there and keep an eye out for others."}
+{"tick": 44.9, "pid": "P4", "screen": "rt_roam", "thought": "I'm alone in Cargo with no one near. Faking the sort_crates task here looks normal and keeps me in place while my kill cooldown is ready. Pink was near earlier; I'll watch for a solo target."}
+{"tick": 45.4, "pid": "P5", "screen": "rt_roam", "thought": "Teal's body is in the Office and I'm auto-walking to the Galley. Keep the current order so I don't look suspicious. My kill is ready in 20s, so I'll find an isolated crewmate after that."}
+{"tick": 45.8, "pid": "P2", "screen": "rt_roam", "thought": "I'm auto-walking to Radio to log the weather. Keep the current order and stay alert for bodies and suspicious movement."}
+{"tick": 45.8, "pid": "P1", "screen": "rt_roam", "thought": "Deliver samples is in the Lab and the task spot is about 17 units NE. go:Lab should take me to it, then I can do the task."}
+{"tick": 45.8, "pid": "P3", "screen": "rt_roam", "thought": "I'm in Pumps and route_coolant is listed as doable now. Doing it keeps me on a real task and visibly productive. I'll watch for bodies and the others' positions afterward."}
+{"tick": 46.4, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll hold position and watch the meeting outcome."}
+{"tick": 47.1, "pid": "P2", "screen": "rt_roam", "thought": "I'm auto-walking to Radio to log the weather; keep the current order and continue tasks."}
+{"tick": 47.2, "pid": "P1", "screen": "rt_roam", "thought": "I'm in Lab with the deliver_samples task spot here; finishing it keeps me still and productive. Staying put to complete it."}
+{"tick": 47.5, "pid": "P5", "screen": "rt_roam", "thought": "Teal's body is in the Office and I was seen near it. I'll keep my current route to the Galley, where the crew gathers, and look for a chance to kill once my cooldown is ready."}
+{"tick": 47.8, "pid": "P7", "screen": "rt_roam", "thought": "I'm auto-walking to Lab, where Rinse samples is my remaining task. Red is there too, and seeing someone nearby is fine. Keep going and finish the task."}
+{"tick": 48.6, "pid": "P1", "screen": "rt_roam", "thought": "I'm in the Lab with the deliver_samples task at my spot; finishing it keeps me productive and visible as crew."}
+{"tick": 48.8, "pid": "P2", "screen": "rt_roam", "thought": "Auto-walking to Radio for the weather log task. Keep the current order and let it finish the walk."}
+{"tick": 49.1, "pid": "P3", "screen": "rt_roam", "thought": "I'm at the Pumps task spot with route_coolant 5s from done. Keep the order and finish it without moving."}
+{"tick": 49.1, "pid": "P4", "screen": "rt_roam", "thought": "I'm alone in Cargo with no one near. Keep up the cover of doing a task while waiting for a kill opportunity; Purple is nearby in the group, so stay low-key."}
+{"tick": 49.1, "pid": "P7", "screen": "rt_roam", "thought": "I'm in the Lab and the rinse samples task is here. Doing it now; Red is nearby doing a task, so nothing suspicious to react to yet."}
+{"tick": 49.5, "pid": "P6", "screen": "rt_ghost", "thought": "I am dead; I cannot act or talk. Just wait for the meeting or game end."}
+{"tick": 50.3, "pid": "P2", "screen": "rt_roam", "thought": "I'm at Radio and the weather log is here. Doing it now; I'll stay still until it finishes."}
+{"tick": 50.6, "pid": "P5", "screen": "rt_roam", "thought": "Teal is dead in the Office. My kill is ready in 16s and nobody is near me in the Galley. I'll hold position, stay unseen, and look for an isolated crewmate once the cooldown ends."}
+{"tick": 52.4, "pid": "P4", "screen": "rt_roam", "thought": "I'm alone in Cargo with no one near. Fake a task here to look busy while Purple and I wait for a kill opportunity; kill ready now but no one in reach."}
+{"tick": 52.6, "pid": "P1", "screen": "rt_roam", "thought": "Deliver samples in Clinic is 9s left; head there to finish tasks. Pink nearby is doing a task, no threat seen."}
+{"tick": 52.7, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll keep my current order and watch the body reports for clues about the impostors."}
+{"tick": 53.3, "pid": "P7", "screen": "rt_roam", "thought": "Rinse samples in Lab has 3 s left; I'm mid-task and must stay still. Red is nearby but far enough. Keep working."}
+{"tick": 53.4, "pid": "P5", "screen": "rt_roam", "thought": "Teal's body was found in Office, and no one is near me in the Galley. My kill is ready in 12s, so I'll hold here and watch for a lone crewmate before I act."}
+{"tick": 53.8, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant has about 1 second left. I'm standing at the task spot, so I'll keep my current order and let it finish."}
+{"tick": 54.3, "pid": "P2", "screen": "rt_roam", "thought": "Log the weather task is in progress with 1 s left; keep my current order so it completes."}
+{"tick": 54.7, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Clinic to deliver samples; keep the current order and watch for suspicious behavior."}
+{"tick": 55.5, "pid": "P2", "screen": "rt_roam", "thought": "Deliver samples task is in Clinic; heading there to finish it while staying with the group route."}
+{"tick": 55.8, "pid": "P3", "screen": "rt_roam", "thought": "No alerts or bodies. Head to Boiler for the Route coolant task, which is the closest remaining one."}
+{"tick": 56.0, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act on tasks or talk. I'll keep still and watch the room."}
+{"tick": 56.1, "pid": "P1", "screen": "rt_roam", "thought": "I'm auto-walking to Clinic to deliver samples, which is my current task. Nothing urgent nearby; keep the order."}
+{"tick": 56.4, "pid": "P7", "screen": "rt_roam", "thought": "Repair antenna task is in Workshop; heading there to finish it while staying alert for impostors."}
+{"tick": 56.9, "pid": "P4", "screen": "rt_roam", "thought": "Alone in Cargo with no one near. Keep the sort_crates cover task running until it finishes, then look for a lone crewmate to kill."}
+{"tick": 57.7, "pid": "P2", "screen": "rt_roam", "thought": "Auto-walking to Clinic to deliver samples; no threats nearby. Keep current order."}
+{"tick": 57.9, "pid": "P5", "screen": "rt_roam", "thought": "Nobody is near me and my kill is 9s away. Lights out makes crew unable to tell who is who, which helps our kills. Orange and I should then pick off isolated crew."}
+{"tick": 58.1, "pid": "P3", "screen": "rt_roam", "thought": "Auto-walking to Boiler to route coolant, a task I still need. Keep the current order."}
+{"tick": 58.4, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Clinic to deliver samples; keep the current order and watch for bodies and chat."}
+{"tick": 58.7, "pid": "P7", "screen": "rt_roam", "thought": "Auto-walking to Workshop to finish the antenna repair. Keep an eye on who is near; no bodies yet."}
+{"tick": 59.1, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out, nobody nearby. My order is already walking to Clinic to deliver samples. Keep the current order and finish the task."}
+{"tick": 59.4, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll keep still and let the living crew find the body and call a meeting."}
+{"tick": 59.9, "pid": "P1", "screen": "rt_roam", "thought": "I'm in Clinic heading to the deliver_samples spot (9s away by the walk). Lights are out, so I should keep my order and finish tasks while watching for others."}
+{"tick": 60.4, "pid": "P5", "screen": "rt_roam", "thought": "Teal is dead in Office and the lights are out, so I'm hard to identify. My kill is ready in 6s. I'll hold in the Galley until a crewmate comes into reach, and keep away from Orange's position."}
+{"tick": 60.4, "pid": "P3", "screen": "rt_roam", "thought": "Already auto-walking to Boiler. Lights are out there, so the fix panel and my Route coolant task are both in that room. Keep the current order."}
+{"tick": 60.4, "pid": "P4", "screen": "rt_roam", "thought": "Lights are out and nobody is near me in Cargo. Kill isn't available with no one in reach, so I'll fake the Sort crates task to look busy while I wait for a target."}
+{"tick": 60.4, "pid": "P7", "screen": "rt_roam", "thought": "Lights are out, so I can't see who's around. I'm already auto-walking to Workshop for the antenna repair, so I'll keep that order and stay near the group."}
+{"tick": 60.8, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out, so I can't see much. I'm already auto-walking to Clinic for Deliver samples, so I'll keep that order and finish the task."}
+{"tick": 62.4, "pid": "P7", "screen": "rt_roam", "thought": "Lights are out, so I can't see who is who. My order is already walking me to the Workshop for the antenna task, which is still open. Keep going and stay near other workers when I can."}
+{"tick": 62.8, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead and can't act or talk. I'll hold position and watch for the meeting results."}
+{"tick": 63.0, "pid": "P3", "screen": "rt_roam", "thought": "Lights are out, and the Route coolant task spot is 16 units NW of me in the Boiler. Walking there so I can start the task."}
+{"tick": 63.0, "pid": "P5", "screen": "rt_roam", "thought": "Kill is ready in about 4s. Pink is in the Galley to the west. I'll hold position, then close in on Pink while the lights are out and kill when I can."}
+{"tick": 63.1, "pid": "P1", "screen": "rt_roam", "thought": "I'm in the Clinic and the deliver_samples task is listed as doable from here. Lights are out, so I should also watch for the Boiler fix later."}
+{"tick": 63.3, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out and I can't tell who is who. I'm still auto-walking to Clinic toward the deliver_samples spot, so I'll keep my current order and finish the task when I arrive."}
+{"tick": 63.7, "pid": "P7", "screen": "rt_roam", "thought": "Auto-walking to Workshop to repair antenna; lights are out, so I should keep moving to my task and watch for others nearby."}
+{"tick": 63.9, "pid": "P4", "screen": "rt_roam", "thought": "Finishing sort_crates keeps me looking like a normal crewmate. No one is near for a kill, and the lights are out, so I'll let the task run and watch for a chance."}
+{"tick": 66.0, "pid": "P7", "screen": "rt_roam", "thought": "I'm in Workshop, and the antenna task spot is south. Lights are out, so I'll head to the task and stay alert for anyone nearby."}
+{"tick": 66.4, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll wait and watch the game unfold."}
+{"tick": 66.4, "pid": "P1", "screen": "rt_roam", "thought": "Mid-task on deliver_samples with 7s left; staying still keeps it progressing. Lights are out, so I can only see very close workers; keep finishing tasks."}
+{"tick": 66.6, "pid": "P2", "screen": "rt_roam", "thought": "Deliver samples task spot is south of me in the Clinic. Lights are out, so I should keep my head down and finish tasks while watching for anyone near me."}
+{"tick": 66.6, "pid": "P5", "screen": "rt_roam", "thought": "Lights are out, so crew can barely see. My kill is ready and Pink was last seen near Galley/Workshop. I'll move toward Workshop to get within reach."}
+{"tick": 66.8, "pid": "P3", "screen": "rt_roam", "thought": "Lights are out and I'm already in Boiler. Going to the broken fix panel here (SE) is the top priority. My walk NW was just wandering."}
+{"tick": 68.1, "pid": "P4", "screen": "rt_roam", "thought": "Lights are out and nobody is near. I'm standing at the Cargo task spot, so I'll fake the sort task to look busy and keep my cover while I wait for a target."}
+{"tick": 68.9, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out, so I can't see well. Deliver_samples is in Clinic, and go:Clinic should take me to the task spot there."}
+{"tick": 69.4, "pid": "P7", "screen": "rt_roam", "thought": "I'm walking the wrong way. The antenna task spot is north of me in the Workshop, so I'll head there and then work on it. Lights are out, so I should stay alert."}
+{"tick": 69.4, "pid": "P3", "screen": "rt_roam", "thought": "Lights are out and I'm standing at the Boiler panel. Fixing them restores visibility so I can see who is near me."}
+{"tick": 70.1, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead and can't act or talk. Lights are out and I'm the body in the Office. I'll hold position and watch the log for the meeting result."}
+{"tick": 70.1, "pid": "P5", "screen": "rt_roam", "thought": "Lights are out and Pink is close on my route to the Workshop. My current walk keeps me near her, and kill isn't in my options until someone is in reach. Let the walk continue and look for a kill opening."}
+{"tick": 70.8, "pid": "P1", "screen": "rt_roam", "thought": "Finishing deliver_samples task, 2s left; staying put keeps the task progressing."}
+{"tick": 70.9, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Clinic, and the deliver_samples task spot is about 13 units south. Walking there to start the task."}
+{"tick": 71.0, "pid": "P4", "screen": "rt_roam", "thought": "Alone in Cargo with no one near. Finishing the sort_crates task as cover, then I'll look for a lone crewmate to hunt with Purple."}
+{"tick": 71.5, "pid": "P7", "screen": "rt_roam", "thought": "Repair antenna is in Workshop and the task spot is 15 units SE. Walking there to start it. Purple is nearby but not acting suspicious."}
+{"tick": 71.7, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant is in Boiler, and the task spot is to the west. go:Boiler should take me to the task spot so I can finish it."}
+{"tick": 71.8, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead and can't talk or act meaningfully. Waiting keeps me out of the way while the living crew finish tasks and vote."}
+{"tick": 72.5, "pid": "P2", "screen": "rt_roam", "thought": "I'm in the Clinic at the task spot direction N for Deliver samples (9s left). Heading N to the task spot and then I'll finish it."}
+{"tick": 72.9, "pid": "P5", "screen": "rt_roam", "thought": "Pink is alone with me in Workshop but 60 units away, and kill isn't in my allowed actions yet. Waiting to see if Pink comes into reach."}
+{"tick": 73.3, "pid": "P1", "screen": "rt_roam", "thought": "Only one task left: Sharpen tools in Workshop (4.5s). Finish it while staying aware of Blue nearby."}
+{"tick": 74.3, "pid": "P7", "screen": "rt_roam", "thought": "The antenna repair spot is about 15 units southeast. I'll head there and then start the task."}
+{"tick": 74.7, "pid": "P5", "screen": "rt_roam", "thought": "Pink is alone with me in the Workshop and my kill is ready. No one else is nearby to see it."}
+{"tick": 74.7, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant task spot is about 16 units NW of me in the Boiler. Walking there, then I'll do the task."}
+{"tick": 75.7, "pid": "P2", "screen": "rt_roam", "thought": "The deliver_samples spot is to the south in the Clinic. Walking there now to start the task."}
+{"tick": 75.7, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll keep still and watch the room."}
+{"tick": 76.1, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, but ghost task completion may still count toward the crew goal. Check-in is the task offered here, so I'll try it."}
+{"tick": 76.9, "pid": "P4", "screen": "rt_roam", "thought": "Alone in Cargo with no witnesses. Pink was last seen between Cargo and Garden, so I'll head east toward Garden to look for a lone crewmate to kill."}
+{"tick": 77.1, "pid": "P3", "screen": "rt_roam", "thought": "I'm in Boiler and my route_coolant task spot is to the SE. Walking there instead of the NW order that's taking me away."}
+{"tick": 77.4, "pid": "P1", "screen": "rt_roam", "thought": "I saw Purple kill Pink here. The body is 93 units west, with Purple beside it. I need to get to the body so I can report it and call a meeting."}
+{"tick": 78.1, "pid": "P2", "screen": "rt_roam", "thought": "Deliver samples is in Clinic, spot to the south. I'm already walking S toward it, so I'll keep the current order and let it carry me there."}
+{"tick": 79.1, "pid": "P7", "screen": "rt_ghost", "thought": "I am dead, so I cannot act or talk. I can only wait and watch the meeting results."}
+{"tick": 79.3, "pid": "P5", "screen": "rt_roam", "thought": "Pink's body is here and Red just arrived. I was with Pink before, so I should leave before a report puts me near the body. Kill is on cooldown for 24s."}
+{"tick": 79.3, "pid": "P1", "screen": "rt_roam", "thought": "I saw Purple kill Pink in the Workshop. Reporting the body now starts a meeting where I can name Purple as the killer."}
+{"tick": 79.9, "pid": "P2", "screen": "rt_roam", "thought": "Remaining task is Deliver samples in Clinic; go to its spot and finish it."}
+{"tick": 79.9, "pid": "P6", "screen": "rt_ghost", "thought": "I am dead (killed in Office). I cannot act meaningfully or talk; dead workers cannot talk. Just hold position and let the game proceed."}
+{"tick": 80.1, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant task is in Boiler, its spot is west. My SE order is wrong, so I'm heading west to it."}
+{"tick": 80.7, "pid": "P4", "screen": "rt_roam", "thought": "Alone in Cargo with no one near. Kill is ready, so I need targets. The Galley is the hub where crew gather, and Purple is my partner, so I'll head there to find a crewmate to isolate."}
+{"tick": 83.9, "pid": "P1", "screen": "rt_meeting", "thought": "I directly witnessed Purple kill Pink. State it clearly and push for a vote on Purple."}
+{"tick": 83.9, "pid": "P3", "screen": "rt_meeting", "thought": "I have no alibi for Pink's death in Workshop; my path was Boiler/Pumps, far from Workshop. Gather info on who was near Pink."}
+{"tick": 83.9, "pid": "P2", "screen": "rt_meeting", "thought": "Share what I know; I have little info. Ask who was in Workshop area. Stay neutral until votes."}
+{"tick": 84.0, "pid": "P4", "screen": "rt_meeting", "thought": "Deflect suspicion away from me and Purple; I was alone in Cargo, no alibi needed beyond that. Pin on Red or Blue gently."}
+{"tick": 85.2, "pid": "P5", "screen": "rt_meeting", "thought": "Stay calm and neutral. Admit being near Pink, point at the Teal kill timing without naming myself as the killer."}
+{"tick": 91.5, "pid": "P1", "screen": "rt_meeting", "thought": "I'm crew and witnessed the kill; pushing Purple while discussion is open. Watch whether others corroborate."}
+{"tick": 91.8, "pid": "P3", "screen": "rt_meeting", "thought": "Red's accusation is unverified and Red could be lying. I have no info on Purple. Don't want to vote blindly; watch for vote patterns."}
+{"tick": 93.0, "pid": "P4", "screen": "rt_meeting", "thought": "Deflect suspicion off Purple by exposing Red's timeline using Blue's sighting. Avoid defending Purple too hard."}
+{"tick": 93.5, "pid": "P2", "screen": "rt_meeting", "thought": "Red's account conflicts with my memory of Red in Clinic at t73. Purple's guilt is unproven, so I want more answers before voting."}
+{"tick": 93.6, "pid": "P5", "screen": "rt_meeting", "thought": "Red is pushing blame on me. Deflect suspicion onto Red and avoid pinning anything on Orange."}
+{"tick": 99.1, "pid": "P1", "screen": "rt_meeting", "thought": "I'm crew and witnessed the kill directly. Pressure Purple to explain, then vote Purple when voting opens."}
+{"tick": 99.5, "pid": "P3", "screen": "rt_meeting", "thought": "Red accuses Purple confidently, but Red may be the impostor deflecting. I have no firm evidence yet; I want more witness details before voting."}
+{"tick": 102.0, "pid": "P4", "screen": "rt_meeting", "thought": "Purple is my teammate. Deflect suspicion onto Red's shifting story without defending Purple directly, and avoid a rushed vote."}
+{"tick": 102.3, "pid": "P5", "screen": "rt_meeting", "thought": "Deflect onto Red using Blue's sighting. Don't commit to details. Orange is my partner, so keep it off us."}
+{"tick": 102.8, "pid": "P2", "screen": "rt_meeting", "thought": "Red and Purple accuse each other. Red was with me in Clinic at t73, so the 75s Workshop claim is possible but tight. I'll press for specifics before voting."}
+{"tick": 107.3, "pid": "P1", "screen": "rt_meeting", "thought": "I did see Purple kill Pink. Pressing Purple's timeline while staying calm and not over-claiming."}
+{"tick": 107.4, "pid": "P3", "screen": "rt_meeting", "thought": "Red's account is the only kill witness and conflicts with Blue's. Purple may be innocent, Red may be framing. Not enough to vote yet; gather info before voting."}
+{"tick": 109.7, "pid": "P4", "screen": "rt_meeting", "thought": "Keep pressure on Red's timeline without exposing Purple; Red is the accuser, so deflect suspicion toward Red's inconsistent story."}
+{"tick": 110.0, "pid": "P5", "screen": "rt_meeting", "thought": "Deflect suspicion onto Red; avoid claiming more detail than I can back up. Orange is my fellow impostor, so keep consistent with the group."}
+{"tick": 110.6, "pid": "P2", "screen": "rt_meeting", "thought": "Unclear who is impostor; Red's story shifts, Purple's also contradicts Red. Avoid a wrong ejection; gather info."}
+{"tick": 115.0, "pid": "P3", "screen": "rt_meeting", "thought": "I have no direct evidence either way. Red and Purple are both suspicious; I need to see voting patterns before choosing."}
+{"tick": 115.9, "pid": "P1", "screen": "rt_meeting", "thought": "Last message. Purple is my best suspect, but Blue and Green are still unclear. I need to get the vote right."}
+{"tick": 117.3, "pid": "P4", "screen": "rt_meeting", "thought": "Stay quiet-ish, deflect toward Red. I have one message left; keep it short and avoid exposing Purple."}
+{"tick": 118.2, "pid": "P2", "screen": "rt_meeting", "thought": "I have only one message left. Evidence is thin; avoid a wrong ejection. Pressing for witnesses."}
+{"tick": 118.8, "pid": "P5", "screen": "rt_meeting", "thought": "Only one message left. Red is the one pushing the accusation, and Orange is backing me. Redirect suspicion to Red without naming myself."}
+{"tick": 123.5, "pid": "P1", "screen": "rt_meeting", "thought": "Discussion phase, I have one message left in total per chat rules; my messages already made my claim. Waiting for voting time before committing to a vote."}
+{"tick": 123.6, "pid": "P3", "screen": "rt_meeting", "thought": "Discussion has no voting option yet; I have no messages left and no new evidence. Keep watching for a voting phase and avoid a bad ejection."}
+{"tick": 125.3, "pid": "P4", "screen": "rt_meeting", "thought": "No messages left, so I can only wait. Purple and I should let the vote fall on Red during voting time."}
+{"tick": 126.2, "pid": "P5", "screen": "rt_meeting", "thought": "Discussion time nearly over. I have no chat messages left. Just wait for the vote; Red is the accuser, and Orange is my impostor partner, so keep Red as the target."}
+{"tick": 126.3, "pid": "P1", "screen": "rt_meeting", "thought": "Only 'wait' is allowed right now. Discussion continues; I'll vote in the voting phase."}
+{"tick": 126.9, "pid": "P2", "screen": "rt_meeting", "thought": "Only wait is allowed right now. Red and Purple accuse each other with no witness, so I keep my vote for the voting phase until there is real evidence."}
+{"tick": 127.1, "pid": "P3", "screen": "rt_meeting", "thought": "Discussion phase: messages_left is 0, so I can only wait. Red and Purple accuse each other; Red's timeline shifted and Blue puts Red one step from Workshop. Vote later."}
+{"tick": 127.7, "pid": "P1", "screen": "rt_meeting", "thought": "I have no messages left and only wait is available. I'll hold until voting opens and vote based on the accusations so far."}
+{"tick": 128.6, "pid": "P2", "screen": "rt_meeting", "thought": "No messages left and voting hasn't opened. Red and Purple accuse each other with no witness. I'll wait and vote once the voting phase starts."}
+{"tick": 128.6, "pid": "P3", "screen": "rt_meeting", "thought": "I have no messages left and can only wait. Red and Purple accuse each other, and I have no kill witness, so I'm holding my vote until the voting phase."}
+{"tick": 128.9, "pid": "P4", "screen": "rt_meeting", "thought": "Only wait is allowed right now; discussion is ongoing and I can't speak in this action set."}
+{"tick": 131.1, "pid": "P5", "screen": "rt_meeting", "thought": "Out of messages (messages_left 0) and the can list only allows wait. Keep my cover and let the vote play out."}
+{"tick": 132.8, "pid": "P1", "screen": "rt_meeting", "thought": "I have no messages left this meeting, so I can only wait for the voting phase. I'll vote Purple, since I saw the kill."}
+{"tick": 133.1, "pid": "P2", "screen": "rt_meeting", "thought": "No messages left this round. Red and Purple accuse each other with no witness, so I'll hold my vote until voting time and look for hard evidence."}
+{"tick": 133.3, "pid": "P4", "screen": "rt_meeting", "thought": "No messages left this discussion, so I can only wait. Purple and I should keep the focus on Red's shifting timeline."}
+{"tick": 133.3, "pid": "P3", "screen": "rt_meeting", "thought": "My messages_left is 0, so I can't chat. Red and Purple accuse each other and I have no witness. I'll hold my vote until the voting phase and see whether anyone produces real evidence."}
+{"tick": 136.7, "pid": "P5", "screen": "rt_meeting", "thought": "Discussion phase with no chat allowed for me now (messages_left 0). Only wait is available; keep my position and let the vote play out."}
+{"tick": 137.4, "pid": "P1", "screen": "rt_meeting", "thought": "No messages left and discussion is nearly over. I can only wait for the voting phase, where I'll vote on Purple, the only player I saw kill."}
+{"tick": 137.9, "pid": "P4", "screen": "rt_meeting", "thought": "No messages left and only wait is available. Keep quiet and let the vote play out without drawing attention."}
+{"tick": 137.9, "pid": "P3", "screen": "rt_meeting", "thought": "No messages left this meeting, so I can only wait. Red and Purple accuse each other with no firm witness, so I won't vote until the voting phase, and only if real evidence appears."}
+{"tick": 139.5, "pid": "P2", "screen": "rt_meeting", "thought": "Discussion has 6 seconds left and I can only wait. Red and Purple accuse each other with no witness, so I will vote only on evidence in the voting phase."}
+{"tick": 142.6, "pid": "P3", "screen": "rt_meeting", "thought": "No messages left and only 1 second of discussion remains. Red and Purple accuse each other with no clear witness, so I'll hold my vote until the voting phase and decide then."}
+{"tick": 142.7, "pid": "P4", "screen": "rt_meeting", "thought": "No messages left and discussion ends in 1s. Keep quiet, then vote on the crew side that splits the vote without exposing Purple."}
+{"tick": 143.4, "pid": "P5", "screen": "rt_meeting", "thought": "Only wait is allowed right now; discussion is nearly over. Keep my cover and vote Red when voting opens."}
+{"tick": 143.4, "pid": "P1", "screen": "rt_meeting", "thought": "Only 'wait' is allowed right now. Discussion ends in 2 seconds; I'll vote Purple when voting opens."}
+{"tick": 145.9, "pid": "P2", "screen": "rt_meeting", "thought": "Red and Purple accuse each other with no tie-breaking evidence. Ejecting either could eject a crewmate, and skip ejects nobody, so skip is the safe choice."}
+{"tick": 148.2, "pid": "P4", "screen": "rt_meeting", "thought": "Red is the crew member pushing the accusation against Purple with a shifting timeline. Ejecting Red leaves 2 impostors against 2 crew, which wins for us."}
+{"tick": 148.6, "pid": "P1", "screen": "rt_meeting", "thought": "I saw Purple kill Pink in Workshop at 75s. Purple's story keeps shifting and nobody else has a witness. Voting Purple."}
+{"tick": 148.8, "pid": "P5", "screen": "rt_meeting", "thought": "Red is the one accusing me and shifting the story. Ejecting Red leaves 2 impostors vs 2 crew, which is a win for us."}
+{"tick": 150.2, "pid": "P3", "screen": "rt_meeting", "thought": "Red's timeline shifted, but Purple's also fits. Ejecting the wrong one at 5 alive is too risky. Skip."}
+{"tick": 160.4, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't speak or vote. I'll hold position and watch the game play out."}
+{"tick": 160.4, "pid": "P2", "screen": "rt_roam", "thought": "Deliver samples in Clinic is my open task. Head there and finish it, staying with people where I can be seen."}
+{"tick": 160.4, "pid": "P6", "screen": "rt_ghost", "thought": "My worker is dead, so I can't act or talk. I'll keep waiting and watch the meeting result."}
+{"tick": 160.9, "pid": "P1", "screen": "rt_roam", "thought": "Last open task is Sharpen tools in Workshop. Heading there to finish it while watching who follows."}
+{"tick": 161.2, "pid": "P4", "screen": "rt_roam", "thought": "Kill is on cooldown (25s) and not available yet. Leaving the Galley with Red, Blue, Green and Purple to head to Lab and look like I'm doing my deliver_samples task."}
+{"tick": 161.4, "pid": "P5", "screen": "rt_roam", "thought": "Kill is not in my allowed actions yet, and the other three crew are all in the Galley with me. I'll hold position and wait for a chance to get someone alone without drawing suspicion."}
+{"tick": 161.9, "pid": "P3", "screen": "rt_roam", "thought": "Pink is dead and Red and Purple are accusing each other. I'm staying with the group and going to do my nearest task, water plants in Garden, which is one step from Galley."}
+{"tick": 162.9, "pid": "P2", "screen": "rt_roam", "thought": "Auto-walking to Clinic to finish deliver_samples. Keep current order."}
+{"tick": 163.1, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll keep still and watch the living players through my remaining view."}
+{"tick": 163.3, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't vote or chat. I'll hold position and keep watching for anything useful."}
+{"tick": 163.5, "pid": "P3", "screen": "rt_roam", "thought": "Auto-walking to Garden to water plants; keep doing tasks and watch for suspicious movement. Red was near Workshop earlier, so avoid being alone with Red."}
+{"tick": 163.7, "pid": "P1", "screen": "rt_roam", "thought": "Auto-walking to Workshop to finish my Sharpen tools task. Keep watching Purple, who is in the Galley with Green."}
+{"tick": 164.0, "pid": "P5", "screen": "rt_roam", "thought": "Kill is on cooldown for 22s and not yet in my allowed actions. Red, Blue and Green are alive, so one more kill would tie the crew count. I'll hold position with Orange and wait for the kill to unlock."}
+{"tick": 164.1, "pid": "P4", "screen": "rt_roam", "thought": "Teal and Pink are dead, so it's 3 crew (Red, Blue, Green) against me and Purple. Kill is ready in 22s. Keep my current route for now and pick off a crewmate once the kill is ready and nobody is watching."}
+{"tick": 164.6, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead and can't speak or vote. I'll keep my order and watch the outcome."}
+{"tick": 165.0, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant is in Boiler, my task is there. Auto-walking to Garden is not needed; I'll go do my assigned task and stay with others when possible."}
+{"tick": 165.3, "pid": "P1", "screen": "rt_roam", "thought": "I'm at the Workshop task spot. Finish sharpen_tools while watching for anyone nearby."}
+{"tick": 165.4, "pid": "P2", "screen": "rt_roam", "thought": "Auto-walking to Clinic is already my order; I'll keep heading there to finish the Deliver samples task (9s left)."}
+{"tick": 165.4, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. I'll head to Workshop and finish my sharpen_tools task to help the crew win."}
+{"tick": 166.2, "pid": "P4", "screen": "rt_roam", "thought": "Kill is not ready for 20s, and Green is only 68 away. Keep the current walk toward Lab and avoid drawing attention."}
+{"tick": 166.2, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or act. I'll keep my current order and watch the remaining crew's tasks."}
+{"tick": 167.0, "pid": "P5", "screen": "rt_roam", "thought": "Two crew are dead, three remain (Red, Blue, Green). One more kill makes it 2 vs 2 and we win. My kill is ready in 20s, so I'll hold in the Galley, where the crew gathered earlier, and strike when someone is in reach."}
+{"tick": 167.3, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't vote or chat. My current order is to walk to Workshop for my remaining task, so I'll keep it."}
+{"tick": 167.6, "pid": "P3", "screen": "rt_roam", "thought": "I'm in Garden and the water_plants task is available here. Doing it clears a task and keeps me in a visible, non-suspicious spot."}
+{"tick": 167.8, "pid": "P4", "screen": "rt_roam", "thought": "I'm in Lab with no one near. Kill is not ready yet (17s). Fake a task here to look busy while staying out of sight until the kill cooldown is ready."}
+{"tick": 168.8, "pid": "P2", "screen": "rt_roam", "thought": "The deliver_samples task spot is 17 units south of me in Clinic. Walking south to reach it, then I can run do_task:deliver_samples."}
+{"tick": 169.2, "pid": "P3", "screen": "rt_roam", "thought": "Still heading to Boiler for route_coolant, which is my next task. Keep the current order and watch for anyone nearby."}
+{"tick": 169.2, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. My order is already walking me to the Workshop, where the sharpen_tools task is. Keep it going."}
+{"tick": 169.7, "pid": "P5", "screen": "rt_roam", "thought": "Nobody is near me in the Galley. My kill is ready in 17s. I'll hold here and let the crew come back to me rather than walk into a lone crewmate's sight."}
+{"tick": 169.8, "pid": "P1", "screen": "rt_roam", "thought": "I'm in Workshop at the task spot, sharpening tools with 1 second left. Keep still and finish the task. Purple is still a suspect, but I have no one near me now."}
+{"tick": 170.5, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. My remaining task, repair antenna, is in Workshop. Finishing it helps the crew win."}
+{"tick": 170.7, "pid": "P3", "screen": "rt_roam", "thought": "Heading to Boiler to finish Route coolant, a tasks-first approach while watching who is near. Not voting without evidence."}
+{"tick": 171.1, "pid": "P2", "screen": "rt_roam", "thought": "I'm in Clinic with the deliver_samples task spot to the north. My current southward walk is wrong, so I'm redirecting north to finish the task."}
+{"tick": 171.4, "pid": "P1", "screen": "rt_roam", "thought": "All my listed tasks show done. Purple is still a suspect, and the last vote tied. I'm alone in Workshop now, so I'll hold position and watch for who comes by before calling anything."}
+{"tick": 171.6, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead but can still finish crew tasks. The can list offers sharpen_tools, so I'll keep working on it."}
+{"tick": 172.3, "pid": "P3", "screen": "rt_roam", "thought": "Continue route_coolant task in Boiler; my order is already auto-walking there. Stay with crew tasks and avoid isolated spots."}
+{"tick": 172.3, "pid": "P4", "screen": "rt_roam", "thought": "Finishing deliver_samples in Lab (1s left) keeps my cover as a crewmate; no one is near, so no kill opportunity right now."}
+{"tick": 173.0, "pid": "P5", "screen": "rt_roam", "thought": "Alone in the Galley with no one near. Kill is ready in 13s. Hold here and go after a lone crewmate once the cooldown is up."}
+{"tick": 173.4, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead and can't talk or vote. My order is already walking me to Workshop to finish the antenna task, so I'll keep that order."}
+{"tick": 173.5, "pid": "P2", "screen": "rt_roam", "thought": "Deliver_samples task spot is to the south, so I'll walk there and then do the task."}
+{"tick": 174.9, "pid": "P1", "screen": "rt_roam", "thought": "All my tasks are done. Purple was accused but the vote tied. Staying put in Workshop and watching for anyone near; I'll avoid isolating myself and stay with others when possible."}
+{"tick": 175.0, "pid": "P3", "screen": "rt_roam", "thought": "Route coolant is in Boiler and the task spot is 40 units SW. go:Boiler should stop me at my task rather than the fix panel, so I'll stay put and finish it."}
+{"tick": 175.5, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. My order is already walking me to Workshop to finish the antenna repair, which still counts toward the crew's tasks. Keep the current order."}
+{"tick": 176.2, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, but ghost tasks still count for crew. Sharpen tools has 2 seconds left, so I'll finish it."}
+{"tick": 176.2, "pid": "P4", "screen": "rt_roam", "thought": "Alone in Lab, kill cooldown has 9s left. Fake the delivery task to look busy until someone comes near."}
+{"tick": 176.5, "pid": "P3", "screen": "rt_roam", "thought": "I'm in Boiler at the task spot for route_coolant (7.5s left). Staying still to finish it; no bodies or people near me."}
+{"tick": 176.7, "pid": "P5", "screen": "rt_roam", "thought": "Alone in Galley with no one near. Kill is ready in 10s, so I'll hold here and watch for a lone crewmate to pass through the hub before moving."}
+{"tick": 177.4, "pid": "P2", "screen": "rt_roam", "thought": "My current walk S is wrong. The deliver_samples task spot is in Clinic, north of me. go:Clinic should take me to the task spot so I can finish it."}
+{"tick": 177.8, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead and can't talk or vote. Holding position and watching the task progress."}
+{"tick": 178.1, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, but ghosts can still help crew by finishing tasks. The antenna task spot is about 15 units SE, so I'll walk there first."}
+{"tick": 178.5, "pid": "P1", "screen": "rt_roam", "thought": "All my listed tasks are done. Purple is still a suspect and the earlier vote tied. No new threats nearby, so I'll hold position in Workshop and watch for bodies or movement."}
+{"tick": 179.0, "pid": "P2", "screen": "rt_roam", "thought": "I'm in Clinic at the task spot now (order auto-walking, but task spot is here). Deliver samples to finish a crew task; stay still while it runs."}
+{"tick": 180.4, "pid": "P5", "screen": "rt_roam", "thought": "Galley is the hub and crew tend to pass through. Kill ready in 6s. Stay put and strike the first crewmate who comes within reach. One more kill (2 impostors vs 2 crew) wins."}
+{"tick": 180.7, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead and can't talk or vote. The repair antenna task spot is NW of me, so I'll head there in case ghost tasks still count toward the crew win."}
+{"tick": 180.8, "pid": "P4", "screen": "rt_roam", "thought": "Finishing deliver_samples in Lab (1 s left) keeps me looking like a crew member; kill is not available from here and no one is near."}
+{"tick": 181.1, "pid": "P3", "screen": "rt_roam", "thought": "I'm at the Boiler task spot and already routing coolant with 4s left. Staying still to finish it, then I'll head to the remaining tasks."}
+{"tick": 181.9, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. The only thing I can still contribute is the unfinished Deliver samples task in the Lab, so I'll head there."}
+{"tick": 182.1, "pid": "P1", "screen": "rt_roam", "thought": "All my tasks are done. Nobody is near me in Workshop. I'll hold position and watch for players; Purple remains the suspect from the earlier kill."}
+{"tick": 182.4, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. Keeping my current order and watching for the outcome."}
+{"tick": 183.5, "pid": "P2", "screen": "rt_roam", "thought": "I'm in Clinic doing deliver_samples with 5s left. Staying put to finish the task; no one else is near."}
+{"tick": 184.0, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll hold position and watch for updates."}
+{"tick": 184.4, "pid": "P5", "screen": "rt_roam", "thought": "Nobody is near me in the Galley. My kill is ready in 2s. I'll hold here, since crew tend to pass through the hub, and strike when a lone crewmate comes into reach."}
+{"tick": 184.9, "pid": "P4", "screen": "rt_roam", "thought": "No one is near me in the Lab and my kill is almost ready. Faking the Lab delivery task makes me look busy while I wait for a target."}
+{"tick": 185.6, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll hold position and watch for updates."}
+{"tick": 185.7, "pid": "P3", "screen": "rt_roam", "thought": "Two tasks left: water plants in Garden and sharpen tools in Workshop. Garden is closer, so I'll do that task first and stay visible with others."}
+{"tick": 186.0, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. My current order is walking to the Lab for the deliver_samples task, and waiting keeps that order going."}
+{"tick": 186.3, "pid": "P1", "screen": "rt_roam", "thought": "My tasks are all done. Purple is still a suspect from the Pink kill, and the Galley is where people gather, so I'll go there to watch who is near and stay with others."}
+{"tick": 187.2, "pid": "P5", "screen": "rt_roam", "thought": "No one is near me in the Galley. Three crew remain (Red, Blue, Green), so one more kill wins it. My kill is ready, so I'll hold here at the hub and strike when someone comes within reach."}
+{"tick": 187.4, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll hold position and keep watching the game."}
+{"tick": 188.0, "pid": "P2", "screen": "rt_roam", "thought": "I'm in Clinic at the task spot with 1 second left on deliver_samples. Stay put and finish it. No bodies or nearby workers right now."}
+{"tick": 188.1, "pid": "P3", "screen": "rt_roam", "thought": "Order already auto-walking to Garden, which has a task (water the plants). Keep going and stay near other workers; avoid being alone with suspects."}
+{"tick": 188.3, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. My order is already auto-walking me to Lab for the remaining Deliver samples task, which helps the crew. Keep it going."}
+{"tick": 188.6, "pid": "P4", "screen": "rt_roam", "thought": "Currently doing deliver_samples in Lab with 2 s left; keep the order so the fake-looking task completes and I stay unsuspicious. No one is near, kill cooldown is ready but no target in reach."}
+{"tick": 188.7, "pid": "P1", "screen": "rt_roam", "thought": "I'm auto-walking to Galley with no nearby workers. My tasks are all done. Stopping to watch and avoid isolated spots with Purple around."}
+{"tick": 189.0, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead and can't act or talk. I'll keep my current order and watch the game unfold."}
+{"tick": 189.4, "pid": "P2", "screen": "rt_roam", "thought": "My tasks are all done. Galley is the hub with the button and most workers; I'll head there to watch for people and keep an eye on the group."}
+{"tick": 189.9, "pid": "P3", "screen": "rt_roam", "thought": "I'm crew, already auto-walking to Garden for the water-plants task. Keeping my current order and staying near the group."}
+{"tick": 190.3, "pid": "P1", "screen": "rt_roam", "thought": "All my tasks are done. Purple is in the Galley, the hub, and I need to keep watch on who is near. I'll head to the Galley to observe and stay with groups rather than isolate myself."}
+{"tick": 190.3, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead and can't talk or vote. My current order to walk to Lab lets me keep working on the deliver_samples task, so I'll keep it."}
+{"tick": 191.1, "pid": "P5", "screen": "rt_roam", "thought": "Red is just south of me in the Galley-Workshop corridor and kill is ready. The kill option isn't in my list yet, so I'll move toward Red to get within reach. Crew is 3 alive, so one more kill would tie us at 2."}
+{"tick": 191.7, "pid": "P3", "screen": "rt_roam", "thought": "I'm already auto-walking to Garden to water the plants. Keep the order and finish that task, then go to Workshop for sharpen tools."}
+{"tick": 191.7, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't vote or chat. I'll hold position and watch for anything useful."}
+{"tick": 191.9, "pid": "P1", "screen": "rt_roam", "thought": "I'm crew, my tasks are all done. Purple is near in the Galley. Last meeting tied; I should stay cautious and watch who is near me, and keep an eye on Purple's movements before accusing again."}
+{"tick": 192.2, "pid": "P4", "screen": "rt_roam", "thought": "I'm in Lab alone with no one near. Fake a task here to look busy while Purple and I stay low-profile; kill opportunities come when someone wanders close."}
+{"tick": 192.2, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act on the living. My order is already walking me to the Lab for the remaining sample delivery task. Keep the current order."}
+{"tick": 192.6, "pid": "P5", "screen": "rt_roam", "thought": "Red is alone with me in the Galley and my kill is ready. Red keeps pushing accusations against me, so removing Red helps the impostors reach parity."}
+{"tick": 192.7, "pid": "P2", "screen": "rt_roam", "thought": "Auto-walk to Galley is already underway and my tasks are done. Keep the current order and watch for bodies and meeting chatter."}
+{"tick": 193.3, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead and can't act or talk. I'll keep still and watch the chat results when the next meeting comes."}
+{"tick": 193.9, "pid": "P1", "screen": "rt_roam", "thought": "All my tasks are done and there are no bodies. Purple is nearby in the Galley, but I have no new evidence. I'll hold position and watch rather than burn my last button."}
+{"tick": 194.5, "pid": "P2", "screen": "rt_roam", "thought": "My tasks are all done and nobody is near. I'm already auto-walking to the Galley, so I'll keep that order and watch for anyone I can see."}
+{"tick": 194.6, "pid": "P3", "screen": "rt_roam", "thought": "I'm auto-walking to Garden to water the plants, and nobody is near me. Keep the current order and finish the task."}
+{"tick": 194.9, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, but ghosts can still finish tasks. Deliver samples is the last open task, so I'll keep working on it to help the crew win."}
+{"tick": 196.0, "pid": "P2", "screen": "rt_roam", "thought": "My tasks are all done. Red is near me in Galley, and we have a tied meeting history. No bodies visible. Keep position and watch, avoid isolated moves."}
+{"tick": 196.0, "pid": "P5", "screen": "rt_roam", "thought": "Crew outnumber us 3 to 2. Lights out makes crew blind to who is who and opens a kill window. Kill isn't in my list right now, so I'll create the opening first."}
+{"tick": 196.3, "pid": "P3", "screen": "rt_roam", "thought": "I'm in Garden at the task spot for Water the plants (NW). Its spot_dir is NW, but the task spot is here per spots_here. Doing the task now while nobody is near."}
+{"tick": 196.6, "pid": "P1", "screen": "rt_roam", "thought": "All my tasks are done. Purple is the suspect, but I have only one button use and no new evidence. I'll hold in the Galley, watch who is near, and save the button for a body or a clearer case."}
+{"tick": 197.6, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't talk or vote. The only thing I can still help with is the unfinished antenna repair in the Workshop, which moves the crew task count forward."}
+{"tick": 197.9, "pid": "P6", "screen": "rt_ghost", "thought": "I'm marked dead, but I'm mid-task on deliver_samples with about 3 seconds left. Finishing it still counts toward the crew's task goal, so I'll keep my current order."}
+{"tick": 197.9, "pid": "P3", "screen": "rt_roam", "thought": "Water the plants has 5 seconds left and I'm at the task spot. Lights are out, so I'll stay put and let the task finish rather than risk wandering in the dark."}
+{"tick": 198.3, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out, which favors impostors. Head to the Boiler panel to fix them, staying with other crew where I can."}
+{"tick": 198.4, "pid": "P4", "screen": "rt_roam", "thought": "Nobody is near me and my kill is ready. Lights out gives cover for a kill. Purple is nearby in Galley area; crew must go to Boiler to fix, which pulls them away from where I can hunt."}
+{"tick": 198.6, "pid": "P5", "screen": "rt_roam", "thought": "Kill isn't in my allowed actions right now, so I need to move. Lights are out, so crew can't see well. Head to the Galley hub to find a lone crewmate."}
+{"tick": 199.1, "pid": "P1", "screen": "rt_roam", "thought": "Lights are out. Head to the Boiler panel to fix them so we can see who is near us. Purple is suspicious, but I need visibility."}
+{"tick": 199.2, "pid": "P7", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or chat. I'll keep still and watch for the outcome."}
+{"tick": 200.1, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out and I'm already auto-walking to the Boiler panel to fix them. My tasks are done, so I'll keep that order and stay alert for anyone nearby."}
+{"tick": 200.4, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, so I can't act or talk. I'll hold position and keep watching."}
+{"tick": 200.8, "pid": "P1", "screen": "rt_roam", "thought": "Lights are out and I'm already auto-walking to the Boiler to fix them. Keeping that order. My tasks are all done, and I'll watch for who is near me."}
+{"tick": 201.5, "pid": "P4", "screen": "rt_roam", "thought": "Lights are out, so crew can barely see. We're 2 impostors against 3 living crew, and Green was last seen in Garden. Head there to find a kill opportunity."}
+{"tick": 202.0, "pid": "P5", "screen": "rt_roam", "thought": "Lights are out and Red is in the Galley. I need a crewmate within reach to kill, so I'll head there while the kill is ready."}
+{"tick": 202.1, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out and I'm already auto-walking to the Boiler panel to fix them. All my tasks are done. Keep the current order so I reach the panel and restore vision for the crew."}
+{"tick": 202.6, "pid": "P3", "screen": "rt_roam", "thought": "Water the plants has about 1 second left and my task spot is here. Lights are out, so I'll stay put and let it finish rather than wander in the dark."}
+{"tick": 202.7, "pid": "P7", "screen": "rt_ghost", "thought": "I was killed in Workshop. Dead workers cannot move or talk, so I'll hold position and watch for the result of the next meeting."}
+{"tick": 203.0, "pid": "P1", "screen": "rt_roam", "thought": "Lights are out and I'm already auto-walking to the Boiler panel to fix them. Keep the order. All my tasks are done."}
+{"tick": 203.8, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out and I'm already auto-walking to the Boiler panel to fix them. My tasks are done, so I'll keep the current order and watch who is near."}
+{"tick": 204.0, "pid": "P4", "screen": "rt_roam", "thought": "Lights are out, so I'm hard to identify. My kill is ready and I'm already auto-walking to Garden, where Green is doing a task. Keep the order and close in."}
+{"tick": 204.8, "pid": "P6", "screen": "rt_ghost", "thought": "I'm dead, but ghosts may still finish tasks. Deliver samples is the only task left, so I'll head to Clinic and try to finish it."}
+{"tick": 204.8, "pid": "P5", "screen": "rt_roam", "thought": "Lights are out and no one is in reach yet. Kill is ready, so I'll hold in the Galley hub and wait for a crewmate to come within range."}
+{"tick": 204.9, "pid": "P3", "screen": "rt_roam", "thought": "Lights are out and the fix panel is in Boiler. Fixing it restores visibility for the crew, and the panel is a broken fix panel so go:Boiler should stop there."}
+{"tick": 205.3, "pid": "P1", "screen": "rt_roam", "thought": "Lights are out and I'm already walking to the Boiler panel. Fixing them restores vision for everyone, which helps crew spot impostors."}
+{"tick": 205.4, "pid": "P2", "screen": "rt_roam", "thought": "Lights are out and I'm standing at the Boiler panel. Fixing them restores visibility for everyone, which helps the crew see who is near bodies."}
+{"tick": 205.9, "pid": "P4", "screen": "rt_roam", "thought": "Kill is ready and Green is right here in Garden. Lights are out, so witnesses are unlikely to identify me."}

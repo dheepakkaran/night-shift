@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Night Shift · replay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=Inter:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="app">
+  <div id="stage">
+    <canvas id="world" aria-label="The station"></canvas>
+
+    <div id="hud">
+      <div id="topbar" class="glass">
+        <div class="brand">NIGHT SHIFT<small id="shiftName">live AI social deduction</small></div>
+        <span id="livePill" class="pill">REPLAY</span><span id="clock">0:00</span><span id="phasePill" class="pill">—</span>
+        <div id="taskwrap"><small><span>Crew tasks</span><span id="taskPct">0%</span></small><div class="bar"><i id="taskBar"></i></div></div>
+        <span class="grow"></span>
+        <div class="seg" id="viewSeg" role="group" aria-label="Camera">
+          <button data-v="director" class="on" title="Director: the camera follows the action (1)">DIRECTOR</button>
+          <button data-v="pov" title="Watch one worker through their eyes (2)">POV</button>
+          <button data-v="map" title="The whole station (3)">MAP</button>
+        </div>
+        <span id="modeBadge" class="pill"></span>
+        <button class="ibtn" id="soundBtn" title="Sound and music">🔊</button>
+        <button class="ibtn" id="voiceBtn" title="Read the commentator aloud">🎙</button>
+        <button class="ibtn" id="tvBtn" title="TV mode (T)">📺</button>
+        <button class="ibtn" id="drawerBtn" title="Players, events, minds, story (D)">☰</button>
+        <button class="ibtn" id="helpBtn" title="Keys (?)">?</button>
+      </div>
+      <div id="alert"></div>
+      <div id="feed"></div>
+      <div id="caption" class="glass"></div>
+      <div id="roster" class="glass"></div>
+      <div id="povhud">
+        <div id="tasks" class="glass"></div>
+        <div id="roletag" class="glass"></div>
+        <div id="actions"></div>
+        <canvas id="minimap" class="glass"></canvas>
+        <div id="thought" class="glass"></div>
+        <div id="whisper"><h1>YOU ARE NOW THE IMPOSTOR</h1><p class="sub" id="whisperSub"></p></div>
+      </div>
+    </div>
+    <div id="pip"><canvas></canvas><div class="lab">IMPOSTOR CAM · <span class="who"></span></div></div>
+
+    <div id="lobby" class="screen"><div class="scr-bg"></div><div class="scr-in">
+      <div class="kicker">LIVE AI EXPERIMENT</div>
+      <div class="logo">NIGHT SHIFT</div>
+      <p class="sub">Six to ten AI players get the same rulebook (and, with the coached brain, our research playbook). Ten seconds in, one or two of them are secretly made impostors.
+        Watch them work, lie, panic and vote, live.</p>
+      <div class="models" id="models"></div>
+      <div class="lineups" id="lineups"></div>
+      <div class="setup">
+        <div class="opt" id="seatOpt"><span class="lab">SEATS</span><div class="seg" id="seatSeg"><button data-n="6">6</button><button data-n="8">8</button><button data-n="10">10</button></div></div>
+        <div class="opt"><span class="lab">BRAIN</span><div class="seg" id="brainSeg">
+          <button data-b="coached" title="Research playbook, one play style per seat, plans, reflexes and a case file at meetings">COACHED</button>
+          <button data-b="pure" title="The rulebook only: the research baseline">PURE</button></div></div>
+      </div>
+      <div class="variants" id="variants"></div>
+      <div class="lobby-row modes"><div class="seg" id="modeSeg">
+        <button data-m="spectator" title="You are told who the impostor is, and watch them hunt">SPECTATOR · you know</button>
+        <button data-m="detective" title="You are not told: guess like the crew, the answer comes at the end">DETECTIVE · you guess</button></div></div>
+      <button id="start">START SHIFT</button>
+      <p class="fine" id="startNote"></p>
+      <p class="past" id="past"></p>
+    </div></div>
+
+    <div id="casting" class="screen"><div class="scr-bg"></div><div class="scr-in">
+      <div class="kicker">SEAT DRAW</div><div class="title">WHO IS ON SHIFT TONIGHT</div>
+      <p class="sub" id="castSub"></p><div class="chips" id="pool"></div>
+      <div class="grid" id="cards"></div>
+      <div class="footline" id="castFoot"></div>
+    </div></div>
+
+    <div id="spin" class="screen"><div class="scr-bg"></div><div class="scr-in">
+      <div class="kicker">THE DRAW</div><div class="title" id="spinTitle">CHOOSING THE IMPOSTOR</div>
+      <div class="row" id="spinRow"></div>
+      <div class="verdict" id="verdict"></div>
+    </div></div>
+
+    <div id="splash" class="screen"><div class="rays"></div><div class="scr-in">
+      <img id="splashImg" alt=""><div class="title" id="splashTitle"></div><p class="sub" id="splashSub"></p>
+    </div></div>
+
+    <div id="tribunal" class="screen"><div class="tb">
+      <div class="tb-head"><div><h2 id="tbTitle"></h2><p id="tbSub"></p></div><span class="grow"></span>
+        <span class="pill green" id="tbVoted"></span><span class="pill" id="tbPhase"></span></div>
+      <div class="tb-table" id="tbTable"><div class="board"><div class="pile" id="tbPile"></div></div></div>
+      <div class="tb-chat glass"><div class="log" id="tbLog"></div><div class="typing" id="tbTyping"></div><div class="result" id="tbResult"></div></div>
+    </div></div>
+
+    <div id="ejectcap" class="screen"><div class="line" id="ejectLine"></div></div>
+    <div id="results" class="screen"><div class="scr-in" id="resultsIn"></div></div>
+
+    <div id="flash"></div><div id="wipe"></div>
+  </div>
+</div>
+
+<aside id="drawer">
+  <div class="tabs"><button data-t="players" class="on">PLAYERS</button><button data-t="events">EVENTS</button><button data-t="minds">MINDS</button><button data-t="story">STORY</button>
+    <span style="flex:1"></span><button id="drawerClose" title="Close (D)">✕</button></div>
+  <div class="pane" id="pane"></div>
+</aside>
+<div id="help"><div class="box glass">
+  <h3 class="disp" style="margin:0 0 8px">KEYS</h3>
+  <table>
+    <tr><td><kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd></td><td>Camera: director · POV · whole map</td></tr>
+    <tr><td><kbd>[</kbd> <kbd>]</kbd></td><td>POV: previous / next worker</td></tr>
+    <tr><td><kbd>T</kbd></td><td>TV mode (the HUD hides until you move the mouse)</td></tr>
+    <tr><td><kbd>D</kbd></td><td>Players, events, minds, story</td></tr>
+    <tr><td><kbd>S</kbd></td><td>Sound · <kbd>V</kbd> commentator voice</td></tr>
+    <tr><td>Click a worker</td><td>Watch them (POV). Detective mode: right-click marks your suspect.</td></tr>
+  </table>
+  <p class="fine" style="text-align:left">The game is live: it cannot be paused or rewound.</p>
+</div></div>
+
+<script src="js/static-data.js"></script>
+<script src="js/static.js"></script>
+<script src="js/core.js"></script>
+<script src="js/lib.js"></script>
+<script src="js/world.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

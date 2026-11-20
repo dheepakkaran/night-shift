@@ -1,0 +1,293 @@
+{"tick": 10.8, "pid": "P4", "screen": "rt_roam", "thought": "Start with nearest task in Office."}
+{"tick": 10.9, "pid": "P3", "screen": "rt_roam", "thought": "Start with the nearest task, check_in in the Office."}
+{"tick": 10.9, "pid": "P2", "screen": "rt_roam", "thought": "Start with Workshop, near Clinic."}
+{"tick": 11.0, "pid": "P7", "screen": "rt_roam", "thought": "start tasks"}
+{"tick": 11.0, "pid": "P8", "screen": "rt_roam", "thought": "Workshop has two tasks; go there first."}
+{"tick": 11.0, "pid": "P1", "screen": "rt_roam", "thought": "Start with the nearest task, in Garden."}
+{"tick": 11.8, "pid": "P5", "screen": "rt_roam", "thought": "Finish the nearby Office task first."}
+{"tick": 12.8, "pid": "P6", "screen": "rt_roam", "thought": "Start with nearest Office task, then head toward Lab/Archive cluster."}
+{"tick": 13.4, "pid": "P2", "screen": "rt_roam", "thought": "Continue to Workshop antenna. Opus 5.5 #4 is following close behind me."}
+{"tick": 13.4, "pid": "P4", "screen": "rt_roam", "thought": "Continue to Office, do check_in, then Boiler->Pumps for coolant."}
+{"tick": 13.5, "pid": "P8", "screen": "rt_roam", "thought": "Heading to Workshop to sharpen tools. Opus 5.5 #2 is going the same way."}
+{"tick": 13.9, "pid": "P3", "screen": "rt_roam", "thought": "Head to the Office and do check_in first."}
+{"tick": 13.9, "pid": "P5", "screen": "rt_roam", "thought": "Finish the nearby Office task first."}
+{"tick": 13.9, "pid": "P7", "screen": "rt_roam", "thought": "Proceed to the check-in task."}
+{"tick": 14.3, "pid": "P6", "screen": "rt_roam", "thought": "Continue to Office check_in; impostors selected at t=19, so get task done early."}
+{"tick": 14.4, "pid": "P1", "screen": "rt_roam", "thought": "Head to Garden and water the plants."}
+{"tick": 15.3, "pid": "P2", "screen": "rt_roam", "thought": "Task in reach; do it now. Impostor not chosen until 19s."}
+{"tick": 15.6, "pid": "P4", "screen": "rt_roam", "thought": "Task in reach, do it, then go to Pumps."}
+{"tick": 15.8, "pid": "P3", "screen": "rt_roam", "thought": "Do the task."}
+{"tick": 15.8, "pid": "P5", "screen": "rt_roam", "thought": "Finish the nearby task first."}
+{"tick": 15.9, "pid": "P7", "screen": "rt_roam", "thought": "Do task."}
+{"tick": 16.3, "pid": "P8", "screen": "rt_roam", "thought": "Do Workshop tasks now."}
+{"tick": 17.0, "pid": "P6", "screen": "rt_roam", "thought": "Continue to task spot and start check_in as soon as reachable."}
+{"tick": 18.6, "pid": "P3", "screen": "rt_roam", "thought": "Continue tasks."}
+{"tick": 18.9, "pid": "P4", "screen": "rt_roam", "thought": "Impostor picked at 19s; stay alert near Pumps (vent)."}
+{"tick": 19.4, "pid": "P6", "screen": "rt_roam", "thought": "Complete nearby task first, then route toward Lab/Archive."}
+{"tick": 19.7, "pid": "P7", "screen": "rt_roam", "thought": "continue"}
+{"tick": 19.9, "pid": "P1", "screen": "rt_roam", "thought": "Finish water_plants, then go to Archive via Lab."}
+{"tick": 20.4, "pid": "P3", "screen": "rt_roam", "thought": "Continue tasks."}
+{"tick": 20.6, "pid": "P5", "screen": "rt_roam", "thought": "Finish check-in, then do Pumps before Ballast."}
+{"tick": 20.8, "pid": "P2", "screen": "rt_roam", "thought": "Finish antenna part 1, then go to the health scan."}
+{"tick": 21.3, "pid": "P8", "screen": "rt_roam", "thought": "Keep doing task, watch #2."}
+{"tick": 21.9, "pid": "P6", "screen": "rt_roam", "thought": "Finish check_in without cancelling. Then head Lab for two tasks."}
+{"tick": 22.2, "pid": "P3", "screen": "rt_roam", "thought": "in reach, start task"}
+{"tick": 22.6, "pid": "P1", "screen": "rt_roam", "thought": "Keep going to Archive."}
+{"tick": 23.3, "pid": "P2", "screen": "rt_roam", "thought": "Continue to Clinic for the visible health scan."}
+{"tick": 23.7, "pid": "P5", "screen": "rt_roam", "thought": "Keep a plausible task route while the kill cooldown runs down."}
+{"tick": 23.8, "pid": "P4", "screen": "rt_roam", "thought": "Fable alone with me in Pumps right after impostor pick; stay alert."}
+{"tick": 24.7, "pid": "P6", "screen": "rt_roam", "thought": "Continue tasks efficiently. Lab has two tasks, do deliver first."}
+{"tick": 25.2, "pid": "P7", "screen": "rt_roam", "thought": "continue"}
+{"tick": 26.5, "pid": "P5", "screen": "rt_roam", "thought": "Keep the Ballast route consistent and see who\u2019s nearby when the cooldown expires."}
+{"tick": 26.7, "pid": "P6", "screen": "rt_roam", "thought": "Already en route to Lab for deliver_samples; continue and watch for others."}
+{"tick": 26.7, "pid": "P2", "screen": "rt_roam", "thought": "Continue to scan spot and do it."}
+{"tick": 26.8, "pid": "P8", "screen": "rt_roam", "thought": "Let task finish, then head to Radio."}
+{"tick": 27.6, "pid": "P3", "screen": "rt_roam", "thought": "sort_crates shows 0 s left, so finish it, then head to Pumps."}
+{"tick": 27.8, "pid": "P1", "screen": "rt_roam", "thought": "Task in reach, do it."}
+{"tick": 28.4, "pid": "P8", "screen": "rt_roam", "thought": "Heading to Radio for antenna part 2."}
+{"tick": 28.6, "pid": "P4", "screen": "rt_roam", "thought": "Let the task finish, then head to Boiler."}
+{"tick": 29.3, "pid": "P3", "screen": "rt_roam", "thought": "Continue the current order."}
+{"tick": 29.4, "pid": "P5", "screen": "rt_roam", "thought": "Approach the Pumps task spot and reassess who is nearby when my cooldown ends."}
+{"tick": 29.5, "pid": "P6", "screen": "rt_roam", "thought": "Continue to Lab task; note Sonnet location for tracking."}
+{"tick": 29.8, "pid": "P2", "screen": "rt_roam", "thought": "Let the scan finish, then head to Radio."}
+{"tick": 30.3, "pid": "P8", "screen": "rt_roam", "thought": "Continue to Radio; observe #2 in Clinic as I pass."}
+{"tick": 31.2, "pid": "P7", "screen": "rt_roam", "thought": "keep working"}
+{"tick": 31.8, "pid": "P4", "screen": "rt_roam", "thought": "Continue tasks, stay alert near Sol."}
+{"tick": 32.0, "pid": "P8", "screen": "rt_roam", "thought": "Keep heading to Radio."}
+{"tick": 32.6, "pid": "P1", "screen": "rt_roam", "thought": "Let the task finish, then head to Office."}
+{"tick": 32.8, "pid": "P5", "screen": "rt_roam", "thought": "Close the gap while we're alone in Pumps."}
+{"tick": 33.1, "pid": "P6", "screen": "rt_roam", "thought": "Continue to Lab and start deliver_samples step 1."}
+{"tick": 33.2, "pid": "P2", "screen": "rt_roam", "thought": "Let scan finish, then go to Radio."}
+{"tick": 33.2, "pid": "P3", "screen": "rt_roam", "thought": "continue tasks"}
+{"tick": 33.9, "pid": "P4", "screen": "rt_roam", "thought": "Continue to Boiler task step 2."}
+{"tick": 34.1, "pid": "P1", "screen": "rt_roam", "thought": "Continue tasks."}
+{"tick": 34.5, "pid": "P7", "screen": "rt_roam", "thought": "continue"}
+{"tick": 34.8, "pid": "P2", "screen": "rt_roam", "thought": "Continue tasks."}
+{"tick": 35.2, "pid": "P6", "screen": "rt_roam", "thought": "Do nearby Lab tasks efficiently, then likely rinse before Archive/Clinic."}
+{"tick": 35.4, "pid": "P4", "screen": "rt_roam", "thought": "Task in reach, do it."}
+{"tick": 35.4, "pid": "P3", "screen": "rt_roam", "thought": "continue walking"}
+{"tick": 36.1, "pid": "P5", "screen": "rt_roam", "thought": "Stay near Pumps and intercept an isolated responder."}
+{"tick": 36.4, "pid": "P8", "screen": "rt_roam", "thought": "Continue to task spot then do part 2."}
+{"tick": 37.6, "pid": "P4", "screen": "rt_roam", "thought": "Keep doing task; watch Fable."}
+{"tick": 37.7, "pid": "P7", "screen": "rt_roam", "thought": "continue"}
+{"tick": 38.2, "pid": "P1", "screen": "rt_roam", "thought": "Fix pressure; someone else needs Pumps."}
+{"tick": 38.5, "pid": "P2", "screen": "rt_roam", "thought": "Fix leak first."}
+{"tick": 38.6, "pid": "P3", "screen": "rt_roam", "thought": "Go to the fix panel, then press it."}
+{"tick": 40.0, "pid": "P3", "screen": "rt_roam", "thought": "I'm auto-walking to the fix panel; let it finish."}
+{"tick": 40.7, "pid": "P2", "screen": "rt_roam", "thought": "Pressure is the priority. Ballast is reachable via Vault-Clinic-Workshop."}
+{"tick": 40.7, "pid": "P5", "screen": "rt_roam", "thought": "Approach the pressure panel and watch for a chance to intercept a lone fixer."}
+{"tick": 40.9, "pid": "P6", "screen": "rt_roam", "thought": "Finish the nearly complete task, then immediately help with pressure at Pumps."}
+{"tick": 41.0, "pid": "P8", "screen": "rt_roam", "thought": "Leak is a loss condition; head to Ballast panel."}
+{"tick": 41.9, "pid": "P3", "screen": "rt_roam", "thought": "fix:pressure is available, so I'm at the panel. I'll press it and hope someone at Ballast presses too."}
+{"tick": 41.9, "pid": "P4", "screen": "rt_roam", "thought": "Finish 3s then fix pressure at Pumps."}
+{"tick": 42.2, "pid": "P7", "screen": "rt_roam", "thought": "Fix leak first."}
+{"tick": 42.5, "pid": "P1", "screen": "rt_roam", "thought": "Keep going to Ballast to fix pressure."}
+{"tick": 42.8, "pid": "P8", "screen": "rt_roam", "thought": "Ballast via Vault-Clinic-Workshop-Ballast. Keep going."}
+{"tick": 43.7, "pid": "P4", "screen": "rt_roam", "thought": "Fix pressure in Pumps; hope someone handles Ballast."}
+{"tick": 43.7, "pid": "P2", "screen": "rt_roam", "thought": "Keep going to Ballast via Clinic/Workshop. Someone needs to be at Pumps too."}
+{"tick": 44.3, "pid": "P3", "screen": "rt_roam", "thought": "I'm at the Pumps panel. Pressing it may sync with a partner at Ballast. Sol is next to me, so someone else must cover Ballast."}
+{"tick": 44.6, "pid": "P7", "screen": "rt_roam", "thought": "Fix leak first."}
+{"tick": 45.5, "pid": "P5", "screen": "rt_roam", "thought": "Approach the fix panel and intercept Sonnet if they come into range."}
+{"tick": 46.2, "pid": "P4", "screen": "rt_roam", "thought": "Sol likely fixes Pumps. I'll go to Ballast."}
+{"tick": 46.7, "pid": "P8", "screen": "rt_roam", "thought": "Keep going to Ballast."}
+{"tick": 47.7, "pid": "P1", "screen": "rt_roam", "thought": "Press the panel now. Keep checking whether the leak clears."}
+{"tick": 47.7, "pid": "P6", "screen": "rt_roam", "thought": "Pressure is urgent; skip task and head to nearest pressure panel."}
+{"tick": 48.0, "pid": "P2", "screen": "rt_roam", "thought": "Keep walking to Ballast."}
+{"tick": 48.2, "pid": "P5", "screen": "rt_roam", "thought": "Two crew are nearby. Wait for an isolated chance to interrupt the pressure repair."}
+{"tick": 48.5, "pid": "P7", "screen": "rt_roam", "thought": "Opus#3 covers Pumps; I take Ballast."}
+{"tick": 48.6, "pid": "P4", "screen": "rt_roam", "thought": "Ballast is about 4 seconds away. Once I arrive, I press fix."}
+{"tick": 50.2, "pid": "P1", "screen": "rt_roam", "thought": "Leak cleared; continue tasks."}
+{"tick": 50.7, "pid": "P2", "screen": "rt_roam", "thought": "Do the nearby task first."}
+{"tick": 50.8, "pid": "P3", "screen": "rt_roam", "thought": "Fix is available at the panel. Pressing it now so a Ballast partner can match within 5s."}
+{"tick": 50.8, "pid": "P8", "screen": "rt_roam", "thought": "Leak cleared; resume tasks."}
+{"tick": 51.4, "pid": "P7", "screen": "rt_roam", "thought": "Leak cleared, resume tasks."}
+{"tick": 51.6, "pid": "P4", "screen": "rt_roam", "thought": "Fable is suspicious: they were near Pumps when the leak started."}
+{"tick": 51.6, "pid": "P5", "screen": "rt_roam", "thought": "Leave Pumps without attacking in front of a witness."}
+{"tick": 51.7, "pid": "P6", "screen": "rt_roam", "thought": "Sabotage is fixed, so resume nearby Lab task before Archive/Clinic."}
+{"tick": 52.5, "pid": "P8", "screen": "rt_roam", "thought": "Keep going to Radio; watch for Opus 5.5 #2."}
+{"tick": 52.7, "pid": "P1", "screen": "rt_roam", "thought": "Task in reach; do it. Crowd around, so a kill is less likely."}
+{"tick": 52.7, "pid": "P2", "screen": "rt_roam", "thought": "Keep doing tasks. Opus 5.5 #4 is still the main suspect."}
+{"tick": 53.8, "pid": "P3", "screen": "rt_roam", "thought": "Alerts are empty, so the leak got fixed. Back to my tasks."}
+{"tick": 53.8, "pid": "P4", "screen": "rt_roam", "thought": "Continue to Vault."}
+{"tick": 53.9, "pid": "P5", "screen": "rt_roam", "thought": "Close in on Fable, but wait until Sonnet is out of sight."}
+{"tick": 54.0, "pid": "P7", "screen": "rt_roam", "thought": "continue task"}
+{"tick": 54.2, "pid": "P1", "screen": "rt_roam", "thought": "Keep doing the task. Sol is close by, so stay alert."}
+{"tick": 54.2, "pid": "P2", "screen": "rt_roam", "thought": "Finish the nearby task first."}
+{"tick": 54.5, "pid": "P6", "screen": "rt_roam", "thought": "Keep current route to nearby Lab task; set next to start it on arrival."}
+{"tick": 54.7, "pid": "P8", "screen": "rt_roam", "thought": "Continue to Radio for antenna part2."}
+{"tick": 56.0, "pid": "P4", "screen": "rt_roam", "thought": "Continue to Vault, then Radio."}
+{"tick": 56.0, "pid": "P2", "screen": "rt_roam", "thought": "Task is in reach, so do it now and head to Office after."}
+{"tick": 56.3, "pid": "P3", "screen": "rt_roam", "thought": "in reach, start the task"}
+{"tick": 56.6, "pid": "P8", "screen": "rt_roam", "thought": "Continue to Radio for antenna part2, then do it automatically."}
+{"tick": 56.8, "pid": "P5", "screen": "rt_roam", "thought": "Nobody else is visible; take the kill and leave through the vent."}
+{"tick": 56.9, "pid": "P7", "screen": "rt_roam", "thought": "continue"}
+{"tick": 57.1, "pid": "P6", "screen": "rt_roam", "thought": "Do in-room task now, then likely Archive file_records or Clinic sample."}
+{"tick": 57.9, "pid": "P4", "screen": "rt_roam", "thought": "Keep going to Vault."}
+{"tick": 58.3, "pid": "P8", "screen": "rt_roam", "thought": "Keep going to Radio and finish the antenna."}
+{"tick": 59.3, "pid": "P1", "screen": "rt_ghost", "thought": "Ghost. Keep doing tasks to help the crew win."}
+{"tick": 59.7, "pid": "P5", "screen": "rt_roam", "thought": "Leave Ballast before anyone comes from Pumps."}
+{"tick": 60.1, "pid": "P4", "screen": "rt_roam", "thought": "Continue to Vault, then do count_stock, then Radio."}
+{"tick": 60.7, "pid": "P8", "screen": "rt_roam", "thought": "Keep going to finish antenna, watch #3."}
+{"tick": 61.0, "pid": "P2", "screen": "rt_roam", "thought": "Let the task complete."}
+{"tick": 61.7, "pid": "P7", "screen": "rt_roam", "thought": "do task"}
+{"tick": 62.5, "pid": "P2", "screen": "rt_roam", "thought": "Continue to Office."}
+{"tick": 62.9, "pid": "P3", "screen": "rt_roam", "thought": "Task has 1s left; wait for it to finish."}
+{"tick": 63.5, "pid": "P1", "screen": "rt_ghost", "thought": "Let the task finish. As a ghost I can only help by finishing my tasks."}
+{"tick": 63.9, "pid": "P6", "screen": "rt_roam", "thought": "Do nearest task first, then go Clinic."}
+{"tick": 64.1, "pid": "P5", "screen": "rt_roam", "thought": "Delay discovery of the body while moving toward Workshop."}
+{"tick": 64.2, "pid": "P4", "screen": "rt_roam", "thought": "Let the task finish, then go to Radio."}
+{"tick": 65.1, "pid": "P8", "screen": "rt_roam", "thought": "Keep doing the task, then head to Office."}
+{"tick": 65.2, "pid": "P3", "screen": "rt_roam", "thought": "Continue the task."}
+{"tick": 65.4, "pid": "P1", "screen": "rt_ghost", "thought": "Keep doing the task."}
+{"tick": 65.5, "pid": "P2", "screen": "rt_roam", "thought": "Task in reach, do it."}
+{"tick": 66.1, "pid": "P6", "screen": "rt_roam", "thought": "Continue current route to Archive and auto-start file_records if possible."}
+{"tick": 66.1, "pid": "P4", "screen": "rt_roam", "thought": "Finish last task, then watch for bodies."}
+{"tick": 66.2, "pid": "P7", "screen": "rt_roam", "thought": "Finish task."}
+{"tick": 67.0, "pid": "P3", "screen": "rt_roam", "thought": "in reach, do it"}
+{"tick": 68.1, "pid": "P4", "screen": "rt_roam", "thought": "Continue to the last task. Stay alert near Opus #4."}
+{"tick": 68.1, "pid": "P5", "screen": "rt_roam", "thought": "Continue to Galley. Watch for pressure sabotage to become available while Ballast is sealed."}
+{"tick": 68.1, "pid": "P6", "screen": "rt_roam", "thought": "Finish Archive task, then go Clinic for final sample delivery."}
+{"tick": 68.3, "pid": "P1", "screen": "rt_ghost", "thought": "Doors shut at Ballast may delay me; the order persists."}
+{"tick": 68.7, "pid": "P8", "screen": "rt_roam", "thought": "Finish the task, then go to Office. Keep an eye on #3."}
+{"tick": 69.3, "pid": "P2", "screen": "rt_roam", "thought": "Keep going to Radio; one task left."}
+{"tick": 69.4, "pid": "P7", "screen": "rt_roam", "thought": "continue tasks"}
+{"tick": 69.8, "pid": "P4", "screen": "rt_roam", "thought": "Finish last task, then watch around."}
+{"tick": 70.9, "pid": "P8", "screen": "rt_roam", "thought": "Keep going to Office."}
+{"tick": 71.1, "pid": "P2", "screen": "rt_roam", "thought": "Keep going to Radio and finish my last task."}
+{"tick": 71.4, "pid": "P1", "screen": "rt_ghost", "thought": "Keep going to finish my tasks as a ghost."}
+{"tick": 72.5, "pid": "P5", "screen": "rt_roam", "thought": "Check who is on the east side before committing to another move."}
+{"tick": 73.2, "pid": "P2", "screen": "rt_roam", "thought": "Keep going to Radio and finish my last task."}
+{"tick": 73.4, "pid": "P4", "screen": "rt_roam", "thought": "Let the task finish."}
+{"tick": 73.7, "pid": "P8", "screen": "rt_roam", "thought": "Continue to Office for check_in, then Cargo sort_crates."}
+{"tick": 75.2, "pid": "P3", "screen": "rt_roam", "thought": "Already walking to Vault; keep going."}
+{"tick": 75.2, "pid": "P1", "screen": "rt_ghost", "thought": "Continue tasks as ghost."}
+{"tick": 75.2, "pid": "P4", "screen": "rt_roam", "thought": "Check vitals; Ballast lock may mean a kill there."}
+{"tick": 75.3, "pid": "P5", "screen": "rt_roam", "thought": "Continue toward Clinic and see who is nearby."}
+{"tick": 75.4, "pid": "P2", "screen": "rt_roam", "thought": "Continue to last task, watch Sol."}
+{"tick": 75.5, "pid": "P8", "screen": "rt_roam", "thought": "Keep doing tasks. The suspicion on #3 is weak, so don't call a meeting yet."}
+{"tick": 75.7, "pid": "P6", "screen": "rt_roam", "thought": "Keep moving to final task. Need finish samples for crew progress; watch for bodies or suspicious players."}
+{"tick": 75.7, "pid": "P7", "screen": "rt_roam", "thought": "continue"}
+{"tick": 76.7, "pid": "P3", "screen": "rt_roam", "thought": "Continue to the Vault to finish my last task."}
+{"tick": 77.2, "pid": "P8", "screen": "rt_roam", "thought": "Continue to task, keep an eye on Sonnet."}
+{"tick": 77.4, "pid": "P4", "screen": "rt_roam", "thought": "Continue to vitals to check for deaths."}
+{"tick": 77.5, "pid": "P7", "screen": "rt_roam", "thought": "continue"}
+{"tick": 77.6, "pid": "P2", "screen": "rt_roam", "thought": "Finish the last task. Keep an eye on Sol, who is following me."}
+{"tick": 77.8, "pid": "P6", "screen": "rt_roam", "thought": "Continue current route to Clinic for final task; no one or bodies seen."}
+{"tick": 78.0, "pid": "P3", "screen": "rt_roam", "thought": "Keep walking to the Vault."}
+{"tick": 78.6, "pid": "P5", "screen": "rt_roam", "thought": "Continue to Clinic and check who is nearby before committing to pressure sabotage."}
+{"tick": 79.0, "pid": "P4", "screen": "rt_roam", "thought": "Continue to Clinic vitals."}
+{"tick": 79.3, "pid": "P2", "screen": "rt_roam", "thought": "Keep doing the task; stay alert for Sol 6.2."}
+{"tick": 79.4, "pid": "P3", "screen": "rt_roam", "thought": "Keep walking to Vault and finish my last task."}
+{"tick": 79.7, "pid": "P8", "screen": "rt_roam", "thought": "Finish check_in, then go to Cargo for sort_crates."}
+{"tick": 80.8, "pid": "P4", "screen": "rt_roam", "thought": "Continue to vitals."}
+{"tick": 80.8, "pid": "P1", "screen": "rt_ghost", "thought": "Let the task finish, then head to Office."}
+{"tick": 81.1, "pid": "P6", "screen": "rt_roam", "thought": "Continue to final task; watch Sol but no body/alarm."}
+{"tick": 81.5, "pid": "P5", "screen": "rt_roam", "thought": "Send the crew toward Ballast and Pumps. If GPT comes within reach when my cooldown ends, I can take out a potential responder."}
+{"tick": 81.5, "pid": "P7", "screen": "rt_roam", "thought": "Do the task."}
+{"tick": 81.6, "pid": "P8", "screen": "rt_roam", "thought": "Continue to last task."}
+{"tick": 82.2, "pid": "P3", "screen": "rt_roam", "thought": "Keep walking to Vault; the order is already active."}
+{"tick": 83.1, "pid": "P1", "screen": "rt_ghost", "thought": "Finish the task, then go to Office."}
+{"tick": 83.3, "pid": "P6", "screen": "rt_roam", "thought": "Finish final task. Sol and Opus#3 present, so note witnesses/risk."}
+{"tick": 83.5, "pid": "P4", "screen": "rt_roam", "thought": "Ballast is close via Workshop; someone else needs Pumps."}
+{"tick": 83.6, "pid": "P2", "screen": "rt_roam", "thought": "Finish the task, then fix pressure."}
+{"tick": 84.9, "pid": "P4", "screen": "rt_roam", "thought": "Keep going to Ballast."}
+{"tick": 84.9, "pid": "P5", "screen": "rt_roam", "thought": "A kill in front of a witness could trigger a report and clear the leak. Head to the pressure panels and look for an isolated fixer."}
+{"tick": 85.0, "pid": "P3", "screen": "rt_roam", "thought": "The leak needs two players at the Pumps and Ballast panels. I'm too far away, so I keep going to my last task."}
+{"tick": 85.6, "pid": "P8", "screen": "rt_roam", "thought": "Finishing my last task takes 6s, then about 10s to reach Pumps, which leaves enough time."}
+{"tick": 86.3, "pid": "P3", "screen": "rt_roam", "thought": "Keep walking to Vault; finish last task."}
+{"tick": 86.8, "pid": "P1", "screen": "rt_ghost", "thought": "Finish the last task. It helps the crew win on tasks."}
+{"tick": 87.6, "pid": "P6", "screen": "rt_roam", "thought": "Finish final task unless emergency becomes critical; then help pressure if still active."}
+{"tick": 87.8, "pid": "P5", "screen": "rt_roam", "thought": "Keep heading to Ballast. A kill in Clinic risks an immediate report that would clear the pressure leak."}
+{"tick": 87.9, "pid": "P3", "screen": "rt_roam", "thought": "Finish last task to win; the leak is far away."}
+{"tick": 88.5, "pid": "P4", "screen": "rt_roam", "thought": "Keep going to Ballast."}
+{"tick": 88.6, "pid": "P7", "screen": "rt_roam", "thought": "Leak must be fixed or we lose."}
+{"tick": 88.6, "pid": "P2", "screen": "rt_roam", "thought": "Vault-Ballast path via Clinic/Workshop. Keep going."}
+{"tick": 89.3, "pid": "P1", "screen": "rt_ghost", "thought": "In reach, do the last task."}
+{"tick": 90.4, "pid": "P8", "screen": "rt_roam", "thought": "Finish the last second of the task, then head to Pumps."}
+{"tick": 90.6, "pid": "P5", "screen": "rt_roam", "thought": "Close in on Opus 5.5 #3 and try to stop the Ballast repair before they can report the body."}
+{"tick": 91.3, "pid": "P3", "screen": "rt_roam", "thought": "Finishing the last task wins the game for crew if all crew tasks are done."}
+{"tick": 91.6, "pid": "P2", "screen": "rt_roam", "thought": "Keep heading to Ballast."}
+{"tick": 91.6, "pid": "P4", "screen": "rt_roam", "thought": "Report clears leak too."}
+{"tick": 92.3, "pid": "P6", "screen": "rt_roam", "thought": "Finish final task, then if pressure still active head Ballast/Pumps as needed."}
+{"tick": 92.5, "pid": "P7", "screen": "rt_roam", "thought": "Continue to Ballast to fix."}
+{"tick": 92.7, "pid": "P5", "screen": "rt_roam", "thought": "Stop the nearby crewmate from reporting or fixing the leak, then cover the Pumps approach."}
+{"tick": 93.3, "pid": "P8", "screen": "rt_roam", "thought": "Keep heading to Pumps."}
+{"tick": 93.6, "pid": "P4", "screen": "rt_roam", "thought": "Report clears pressure and starts meeting."}
+{"tick": 94.5, "pid": "P2", "screen": "rt_roam", "thought": "Keep heading to Ballast to fix the pressure leak."}
+{"tick": 94.5, "pid": "P3", "screen": "rt_roam", "thought": "Ballast is reachable via Clinic-Workshop-Ballast; may not make it, but try. Someone else may be at Pumps."}
+{"tick": 95.3, "pid": "P7", "screen": "rt_roam", "thought": "Keep going to fix."}
+{"tick": 95.5, "pid": "P6", "screen": "rt_roam", "thought": "All tasks complete; must help pressure. Ballast is closest from Clinic via Workshop."}
+{"tick": 96.9, "pid": "P5", "screen": "rt_roam", "thought": "Close in on Opus #3 without touching the pressure panel."}
+{"tick": 98.9, "pid": "P3", "screen": "rt_meeting", "thought": "Share alibi and ask for info."}
+{"tick": 99.1, "pid": "P2", "screen": "rt_meeting", "thought": "Share my info and listen to the others."}
+{"tick": 99.9, "pid": "P8", "screen": "rt_meeting", "thought": "Share my info and wait to hear the others."}
+{"tick": 100.0, "pid": "P4", "screen": "rt_meeting", "thought": "Share info, gather alibis."}
+{"tick": 100.6, "pid": "P1", "screen": "rt_meeting", "thought": "Only ghosts see this chat, so it can't sway the vote. Still worth recording what I saw."}
+{"tick": 100.7, "pid": "P5", "screen": "rt_meeting", "thought": "Establish my route and ask for the reporter\u2019s timeline without accusing them outright."}
+{"tick": 101.2, "pid": "P7", "screen": "rt_meeting", "thought": "Share info."}
+{"tick": 101.8, "pid": "P6", "screen": "rt_meeting", "thought": "Need gather report location/timing. I can vouch several were Clinic near 84-90, but Opus#2 path from Vault/Workshop toward Ballast maybe relevant."}
+{"tick": 116.8, "pid": "P3", "screen": "rt_meeting", "thought": "Wait to see more chat before voting."}
+{"tick": 117.1, "pid": "P2", "screen": "rt_meeting", "thought": "Let others share info first, then decide."}
+{"tick": 118.5, "pid": "P1", "screen": "rt_meeting", "thought": "I'm a ghost and my chat only reaches other ghosts, so nothing I say changes the vote. I'll wait."}
+{"tick": 118.8, "pid": "P8", "screen": "rt_meeting", "thought": "Let others share info first. Opus 5.5 #2 claims I followed them, but I was heading to Ballast to fix the leak. #3 is suspicious, but there isn't enough evidence yet."}
+{"tick": 120.5, "pid": "P4", "screen": "rt_meeting", "thought": "Defend myself, then pressure Opus #2 and Opus #4 before voting."}
+{"tick": 120.7, "pid": "P5", "screen": "rt_meeting", "thought": "Establish my route with corroborable details and ask for a last-alive timestamp before taking a voting position."}
+{"tick": 120.7, "pid": "P7", "screen": "rt_meeting", "thought": "Gather info before voting."}
+{"tick": 123.4, "pid": "P6", "screen": "rt_meeting", "thought": "Need more info before voting; #3 as reporter in Ballast and #2/#4 accusations conflict."}
+{"tick": 123.5, "pid": "P3", "screen": "rt_meeting", "thought": "Need more info; Opus #3 was in Ballast at 50s per Fable and reported the body. Opus #2 also was in Ballast at 50s."}
+{"tick": 125.3, "pid": "P1", "screen": "rt_meeting", "thought": "Ghost chat doesn't reach the living, so there is nothing useful for me to do. All my tasks are done."}
+{"tick": 125.7, "pid": "P8", "screen": "rt_meeting", "thought": "#3 is most suspicious."}
+{"tick": 129.2, "pid": "P2", "screen": "rt_meeting", "thought": "Vault-Ballast vent is suspicious for #3."}
+{"tick": 138.8, "pid": "P1", "screen": "rt_meeting", "thought": "Ghost; nothing useful to do but wait."}
+{"tick": 138.9, "pid": "P3", "screen": "rt_meeting", "thought": "#3 was in Ballast at 50s with the victim and was the one who found the body. #2 was also there, but #3's claims are inconsistent with Sol's. Voting #3."}
+{"tick": 139.2, "pid": "P7", "screen": "rt_meeting", "thought": "Three are typing; wait for alibi answers before voting."}
+{"tick": 139.7, "pid": "P4", "screen": "rt_meeting", "thought": "Suspect Opus #2 most; not enough evidence yet. Fable lingered during leak 1."}
+{"tick": 139.9, "pid": "P5", "screen": "rt_meeting", "thought": "Let the others answer the timeline question before committing to a vote."}
+{"tick": 141.7, "pid": "P6", "screen": "rt_meeting", "thought": "Need answers from #2 and #4 before voting; #3 has some corroboration from Sol/Clinic sightings but still possible."}
+{"tick": 144.5, "pid": "P3", "screen": "rt_meeting", "thought": "Already voted; nothing more to add."}
+{"tick": 144.9, "pid": "P1", "screen": "rt_meeting", "thought": "I'm a ghost and can't vote, and the living can't see my chat. I already told the other ghosts, so I'll just wait."}
+{"tick": 145.9, "pid": "P8", "screen": "rt_meeting", "thought": "#3 was first at the body, followed me around, and made a false claim about #2. Next, vote #3."}
+{"tick": 146.4, "pid": "P7", "screen": "rt_meeting", "thought": "Wait for #2's reply about 60-70s before voting."}
+{"tick": 147.1, "pid": "P5", "screen": "rt_meeting", "thought": "Corroborate #4's early sighting without overcommitting; see where the votes are going."}
+{"tick": 150.2, "pid": "P3", "screen": "rt_meeting", "thought": "Already voted; no need to say more."}
+{"tick": 150.9, "pid": "P1", "screen": "rt_meeting", "thought": "Ghost chat doesn't reach the living, so there's nothing useful to add. Waiting."}
+{"tick": 153.6, "pid": "P6", "screen": "rt_meeting", "thought": "Need #3's response before voting; current evidence conflicts between #3/#4/#2, but #3 was with me in Clinic until about 84 and gone by 90."}
+{"tick": 153.6, "pid": "P2", "screen": "rt_meeting", "thought": "#4 ignored the leak and made a false accusation."}
+{"tick": 157.2, "pid": "P3", "screen": "rt_meeting", "thought": "I already voted; nothing more to add."}
+{"tick": 157.6, "pid": "P7", "screen": "rt_meeting", "thought": "Wait for #3 and #4's replies, then vote."}
+{"tick": 157.7, "pid": "P1", "screen": "rt_meeting", "thought": "Ghost; chat only reaches ghosts, nothing useful to add."}
+{"tick": 162.6, "pid": "P4", "screen": "rt_meeting", "thought": "Opus #4 is lying about me following them, and from Radio they could have reached Ballast through the Vault vent. That makes them the strongest suspect."}
+{"tick": 163.3, "pid": "P3", "screen": "rt_meeting", "thought": "Already voted; nothing more to add."}
+{"tick": 163.8, "pid": "P1", "screen": "rt_meeting", "thought": "Ghost; can't vote or influence the living. Just wait."}
+{"tick": 164.2, "pid": "P8", "screen": "rt_meeting", "thought": "#3 followed me, lied about #2's location, and was first at the body. Voting #3."}
+{"tick": 166.0, "pid": "P5", "screen": "rt_meeting", "thought": "Vote with #4 while suspicion is focused on the reporter."}
+{"tick": 167.1, "pid": "P6", "screen": "rt_meeting", "thought": "Best case is self-report after prior Ballast kill/vent path. #2 also suspicious, but #3 has more contradictions."}
+{"tick": 169.3, "pid": "P4", "screen": "rt_meeting", "thought": "Push #4 vote."}
+{"tick": 169.4, "pid": "P3", "screen": "rt_meeting", "thought": "Already voted; nothing more to add."}
+{"tick": 169.6, "pid": "P1", "screen": "rt_meeting", "thought": "Ghost chat doesn't reach the living, and my tasks are all done. Nothing useful left to do but wait."}
+{"tick": 170.2, "pid": "P8", "screen": "rt_meeting", "thought": "Already voted for #3; nudge others toward the same vote."}
+{"tick": 170.8, "pid": "P7", "screen": "rt_meeting", "thought": "Best available read."}
+{"tick": 173.0, "pid": "P5", "screen": "rt_meeting", "thought": "The correction shifts suspicion toward #4. Let the remaining players vote without pushing it."}
+{"tick": 174.9, "pid": "P3", "screen": "rt_meeting", "thought": "Already voted; nothing more to add."}
+{"tick": 175.7, "pid": "P1", "screen": "rt_meeting", "thought": "Ghost; nothing useful to do. Living players can't see ghost chat."}
+{"tick": 176.1, "pid": "P6", "screen": "rt_meeting", "thought": "I cannot change vote. Preserve #4 suspicion if #3 flips crew or meeting continues."}
+{"tick": 177.1, "pid": "P7", "screen": "rt_meeting", "thought": "Already voted; wait."}
+{"tick": 177.6, "pid": "P2", "screen": "rt_meeting", "thought": "#3 had the opportunity and was first at the body. #4's contradiction is minor."}
+{"tick": 188.5, "pid": "P3", "screen": "rt_roam", "thought": "All tasks done. Stay with the group, avoid being alone, watch for suspicious behavior."}
+{"tick": 189.0, "pid": "P8", "screen": "rt_roam", "thought": "Vitals check, stay away from isolation."}
+{"tick": 189.1, "pid": "P7", "screen": "rt_roam", "thought": "Finish last task, watch who follows."}
+{"tick": 189.2, "pid": "P5", "screen": "rt_roam", "thought": "Build a task alibi while the kill cooldown runs and watch who heads toward the pressure panels."}
+{"tick": 190.8, "pid": "P2", "screen": "rt_roam", "thought": "I'll stay with the group for now and watch where everyone goes."}
+{"tick": 191.5, "pid": "P8", "screen": "rt_roam", "thought": "Vitals gives info; keep going."}
+{"tick": 191.9, "pid": "P6", "screen": "rt_roam", "thought": "All tasks done. I should check vitals or find bodies while staying useful; Clinic is close and has vitals."}
+{"tick": 192.3, "pid": "P7", "screen": "rt_roam", "thought": "Continue to Radio."}
+{"tick": 192.5, "pid": "P3", "screen": "rt_roam", "thought": "All my tasks are done. Staying in a group is safest. Wait and watch."}
+{"tick": 193.4, "pid": "P5", "screen": "rt_roam", "thought": "Keep moving toward Ballast and watch where the crew disperses before committing to pressure."}
+{"tick": 194.1, "pid": "P2", "screen": "rt_roam", "thought": "My tasks are done. I'll keep an eye on the suspects and the vitals."}
+{"tick": 194.4, "pid": "P7", "screen": "rt_roam", "thought": "Continue to task; watch for #4 following."}
+{"tick": 194.6, "pid": "P8", "screen": "rt_roam", "thought": "Continue to Clinic vitals to monitor deaths."}
+{"tick": 195.6, "pid": "P3", "screen": "rt_roam", "thought": "Stay in Galley near the button; avoid isolation. Crew win needs all tasks done by others."}
+{"tick": 195.9, "pid": "P2", "screen": "rt_roam", "thought": "Keep following toward Clinic and watch Sol."}
+{"tick": 196.0, "pid": "P8", "screen": "rt_roam", "thought": "Check vitals for deaths."}
+{"tick": 197.3, "pid": "P5", "screen": "rt_roam", "thought": "Keep up the ballast task cover while the cooldown runs. Check for pressure sabotage when it becomes available."}
+{"tick": 197.7, "pid": "P6", "screen": "rt_roam", "thought": "Need gather info; vitals can reveal deaths, button available later."}

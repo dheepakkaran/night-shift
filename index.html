@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Night Shift</title>
+<meta name="description" content="An original real-time social deduction game played by AI models. Watch recorded shifts.">
+<meta property="og:title" content="Night Shift"><meta property="og:description" content="AI models work, lie and vote in a real-time social deduction game.">
+<meta property="og:image" content="media/night-shift.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=Inter:wght@400;500;700&display=swap">
+<style>
+:root { --bg: #070a12; --panel: rgba(255,255,255,.04); --line: rgba(255,255,255,.1); --ink: #e8edf5; --muted: #8b96a8; --accent: #f2c230; --red: #ff6b5e;
+  --display: "Chakra Petch", system-ui, sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; background: radial-gradient(1200px 600px at 50% -10%, #1a2340 0%, var(--bg) 60%) fixed, var(--bg); color: var(--ink); font: 16px/1.6 Inter, system-ui, sans-serif; }
+a { color: inherit; }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 20px; }
+header { padding: 72px 0 28px; text-align: center; }
+.kicker { font: 700 12px var(--display); letter-spacing: 4px; color: var(--red); }
+h1 { font: 700 clamp(48px, 10vw, 104px)/1 var(--display); letter-spacing: 8px; margin: 10px 0 14px;
+  background: linear-gradient(180deg, #fff, var(--accent) 70%, #b88a12); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.lead { max-width: 680px; margin: 0 auto; color: #c3cad6; font-size: 18px; }
+.cta { display: inline-block; margin-top: 26px; padding: 14px 30px; border-radius: 999px; background: var(--accent); color: #171204; font: 700 15px var(--display); letter-spacing: 3px; text-decoration: none; }
+section { margin: 46px 0; }
+h2 { font: 700 14px var(--display); letter-spacing: 4px; color: var(--accent); margin: 0 0 14px; }
+video { width: 100%; border-radius: 16px; border: 1px solid var(--line); background: #000; display: block; }
+.shifts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.shift { display: flex; flex-direction: column; gap: 6px; padding: 18px; border-radius: 16px; background: var(--panel); border: 1px solid var(--line); text-decoration: none; transition: transform .15s, border-color .15s; }
+.shift:hover { transform: translateY(-3px); border-color: var(--accent); }
+.shift .tag { font: 700 10.5px var(--display); letter-spacing: 2px; color: var(--accent); }
+.shift b { font: 700 18px/1.25 var(--display); letter-spacing: .5px; }
+.shift .meta { color: var(--muted); font-size: 13px; } .shift .go { margin-top: auto; padding-top: 8px; font-weight: 700; font-size: 14px; }
+.steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; counter-reset: s; list-style: none; padding: 0; margin: 0; }
+.steps li { padding: 16px; border-radius: 14px; background: var(--panel); border: 1px solid var(--line); font-size: 14.5px; color: #c3cad6; }
+.steps li b { display: block; color: var(--ink); font: 700 15px var(--display); margin-bottom: 4px; }
+.steps li::before { counter-increment: s; content: "0" counter(s); font: 700 12px var(--display); color: var(--red); letter-spacing: 2px; }
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+.grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.grid li { display: grid; grid-template-columns: 26px 1fr; column-gap: 8px; padding: 10px 12px; border-radius: 12px; background: var(--panel); border: 1px solid var(--line); font-size: 13.5px; }
+.grid li i { font-style: normal; grid-row: span 2; font-size: 18px; } .grid li b { font: 700 13.5px var(--display); letter-spacing: .5px; } .grid li span { color: var(--muted); }
+p.note { color: #c3cad6; max-width: 760px; }
+footer { padding: 30px 0 60px; color: var(--muted); font-size: 13px; text-align: center; border-top: 1px solid var(--line); margin-top: 40px; }
+@media (max-width: 820px) { .shifts, .steps, .two { grid-template-columns: 1fr; } .grid { grid-template-columns: 1fr; } header { padding-top: 48px; } }
+</style></head>
+<body><div class="wrap">
+<header><div class="kicker">LIVE AI EXPERIMENT</div><h1>NIGHT SHIFT</h1>
+<p class="lead">An original real-time social deduction game played by AI models. Everyone starts as crew on a harbor station.
+Ten seconds in, one or two of them are secretly made impostors. Every step, kill, chat message and vote after that is the model's own decision.</p>
+<a class="cta" href="play/">WATCH A SHIFT</a></header>
+<section id="overview"><video controls playsinline preload="metadata" poster="media/night-shift.jpg">
+      <source src="media/night-shift.mp4" type="video/mp4"></video></section>
+<section><h2>RECORDED SHIFTS</h2><div class="shifts"><a class="shift" href="play/?run=runs/live-20261119-144159/game-1"><span class="tag">FRONTIER MODELS</span><b>Eight seats, six frontier models</b>
+      <span class="meta">8 players · 3:19 · 1 meeting · 18 chat lines · $3.59 of API calls</span><span class="go">Watch the replay →</span></a><a class="shift" href="play/?run=runs/live-20261119-203237/game-1"><span class="tag">FREE TIER · COACHED BRAIN</span><b>Ten free models with a playbook</b>
+      <span class="meta">10 players · 11:40 · 4 meetings · 52 chat lines · $0</span><span class="go">Watch the replay →</span></a><a class="shift" href="play/?run=runs/live-20261119-010117/game-1"><span class="tag">SEVEN HAIKUS</span><b>Seven Claude Haiku 5.5 players</b>
+      <span class="meta">7 players · 3:26 · 1 meeting · 25 chat lines · $0</span><span class="go">Watch the replay →</span></a></div></section>
+<section><h2>HOW A SHIFT GOES</h2><ol class="steps">
+<li><b>Seat draw</b>Each seat is drawn at random from a pool of models. The same model can come up twice.</li>
+<li><b>The turn</b>Ten seconds in, the game privately tells one or two players they are now impostors.</li>
+<li><b>Real time</b>Nobody waits for anybody. While a model thinks, its worker keeps walking. Kills, vents, lights out, pressure leaks.</li>
+<li><b>Meetings</b>A body or the button calls everyone in. Live chat with typing time, then a vote. Wrong ejects happen.</li>
+</ol></section>
+<section class="two"><div><h2>TEN PLAY STYLES</h2><ul class="grid"><li><i>🔎</i><b>Detective</b><span>asks named players where, who and what</span></li><li><i>🤝</i><b>Buddy</b><span>moves in pairs or threes</span></li><li><i>📹</i><b>Watchman</b><span>brings console readings with times</span></li><li><i>⚡</i><b>Speedrunner</b><span>plans four actions at a time</span></li><li><i>🧐</i><b>Skeptic</b><span>asks for the evidence behind each accusation</span></li><li><i>🧭</i><b>Captain</b><span>runs the meeting</span></li><li><i>🤫</i><b>Quiet One</b><span>one exact fact beats five guesses</span></li><li><i>⏱</i><b>Timekeeper</b><span>rebuilds the last 30 s</span></li><li><i>🕳</i><b>Vent Watcher</b><span>too fast between rooms = vent</span></li><li><i>🔧</i><b>Fixer</b><span>first to every sabotage</span></li></ul></div>
+<div><h2>SIX GAME MODES</h2><ul class="grid"><li><i>🛰</i><b>Classic</b><span>the standard rules</span></li><li><i>🌑</i><b>Blackout</b><span>small vision, lights out often</span></li><li><i>⚡</i><b>Rush</b><span>fast feet, short tasks, quick kills</span></li><li><i>👥</i><b>Double</b><span>two impostors who know each other</span></li><li><i>🃏</i><b>Jester</b><span>a secret fool wins by being voted out</span></li><li><i>🏃</i><b>Marathon</b><span>more tasks, slower kills</span></li></ul></div></section>
+<section><h2>TWO BRAINS</h2><p class="note"><b>Pure</b>: the rulebook and nothing else, the research baseline.
+<b>Coached</b>: a playbook built from 457 coded human meetings and 2,227 real games: a decision checklist,
+four-step plans, a body-report reflex, a last-seen table and a case file with the vote maths at every meeting.
+It lets small free-tier models play closer to big ones.</p></section>
+<footer>Night Shift is an original game (own name, map and art). Built with AI models from Anthropic, OpenAI, Groq and NVIDIA.<br>
+Music in the video is synthesized. Fonts: Chakra Petch and Inter (OFL).</footer>
+</div></body></html>

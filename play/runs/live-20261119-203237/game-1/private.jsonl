@@ -1,0 +1,325 @@
+{"tick": 9.8, "pid": "P3", "screen": "rt_roam", "thought": "Move to Office, do check-in quickly with crew."}
+{"tick": 9.8, "pid": "P2", "screen": "rt_roam", "thought": "Start with near task, stay near others"}
+{"tick": 9.9, "pid": "P5", "screen": "rt_roam", "thought": "Start tasks near crew for safety."}
+{"tick": 10.8, "pid": "P8", "screen": "rt_roam", "thought": "Start tasks near group for safety"}
+{"tick": 10.9, "pid": "P4", "screen": "rt_roam", "thought": "Start tasks near others"}
+{"tick": 11.4, "pid": "P7", "screen": "rt_roam", "thought": "Start nearby task, stay grouped for safety"}
+{"tick": 12.0, "pid": "P3", "screen": "rt_roam", "thought": "Start check-in, keep eye on crew."}
+{"tick": 12.6, "pid": "P9", "screen": "rt_roam", "thought": "Start with nearest task Office check_in"}
+{"tick": 12.8, "pid": "P5", "screen": "rt_roam", "thought": "Follow full task plan near players; watch for bodies or vents."}
+{"tick": 12.9, "pid": "P3", "screen": "rt_roam", "thought": "Proceed to check_in task"}
+{"tick": 13.3, "pid": "P2", "screen": "rt_roam", "thought": "Start check_in task in Office as crew; report on body reflex active"}
+{"tick": 13.7, "pid": "P4", "screen": "rt_roam", "thought": "Do Garden task first, then Workshop"}
+{"tick": 14.6, "pid": "P8", "screen": "rt_roam", "thought": "Crew safe in Galley; heading to Office task with group nearby"}
+{"tick": 14.6, "pid": "P5", "screen": "rt_roam", "thought": "Complete current task then rejoin group."}
+{"tick": 15.0, "pid": "P7", "screen": "rt_roam", "thought": "Complete tasks near others. Workshop first, then Office, Archive."}
+{"tick": 15.5, "pid": "P2", "screen": "rt_roam", "thought": "Start check_in task; it's in reach."}
+{"tick": 16.3, "pid": "P6", "screen": "rt_roam", "thought": "Start check_in task near others"}
+{"tick": 16.5, "pid": "P4", "screen": "rt_roam", "thought": "Complete nearby task then head to Pumps for route_coolant"}
+{"tick": 18.1, "pid": "P8", "screen": "rt_roam", "thought": "Finish check_in then group tasks"}
+{"tick": 18.5, "pid": "P7", "screen": "rt_roam", "thought": "Complete task then head to Ballast for next task"}
+{"tick": 19.2, "pid": "P2", "screen": "rt_roam", "thought": "Do check_in then move to Ballast check."}
+{"tick": 19.4, "pid": "P8", "screen": "rt_roam", "thought": "Crew safety in numbers, proceed to Workshop task"}
+{"tick": 20.2, "pid": "P2", "screen": "rt_roam", "thought": "First task: health scan (1/1). Crew visible in SE."}
+{"tick": 20.4, "pid": "P5", "screen": "rt_roam", "thought": "1 No body. 2 No kill/vent seen. 3 No pressure. 4 Route coolant task next."}
+{"tick": 20.9, "pid": "P3", "screen": "rt_roam", "thought": "Start task, stay near others."}
+{"tick": 21.2, "pid": "P8", "screen": "rt_roam", "thought": "Blend in by walking to Workshop task"}
+{"tick": 22.7, "pid": "P7", "screen": "rt_roam", "thought": "Moving to Ballast to start ballast_check task. Keeping on_body report active."}
+{"tick": 23.8, "pid": "P4", "screen": "rt_roam", "thought": "Head to Pumps for coolant task; stay alert"}
+{"tick": 23.9, "pid": "P2", "screen": "rt_roam", "thought": "Start health_scan task, keep on_body report for any bodies."}
+{"tick": 24.7, "pid": "P9", "screen": "rt_roam", "thought": "Complete tasks efficiently"}
+{"tick": 24.7, "pid": "P8", "screen": "rt_roam", "thought": "Blend in at workshop task until kill ready"}
+{"tick": 24.8, "pid": "P5", "screen": "rt_roam", "thought": "Crew, no impostor evidence yet, doing tasks with full plan"}
+{"tick": 25.5, "pid": "P2", "screen": "rt_roam", "thought": "walk to health_scan task in Clinic"}
+{"tick": 26.0, "pid": "P6", "screen": "rt_roam", "thought": "Proceed to check_in task immediately"}
+{"tick": 26.6, "pid": "P5", "screen": "rt_roam", "thought": "Alone in Pumps, doing coolant task then valve task"}
+{"tick": 27.0, "pid": "P8", "screen": "rt_roam", "thought": "Blend in at task spot while kill cooldown finishes"}
+{"tick": 27.5, "pid": "P7", "screen": "rt_roam", "thought": "Complete tasks efficiently near others when possible."}
+{"tick": 28.6, "pid": "P5", "screen": "rt_roam", "thought": "Do Pumps tasks alone; no body seen; crew safety in numbers."}
+{"tick": 28.7, "pid": "P4", "screen": "rt_roam", "thought": "Complete coolant task in Pumps then Boiler"}
+{"tick": 28.9, "pid": "P9", "screen": "rt_roam", "thought": "Complete water_plants then move to Ballast task chain"}
+{"tick": 30.1, "pid": "P2", "screen": "rt_roam", "thought": "Start health_scan task, keep on_body report reflex"}
+{"tick": 31.1, "pid": "P5", "screen": "rt_roam", "thought": "Finish route_coolant then tune valves then Office task"}
+{"tick": 31.7, "pid": "P4", "screen": "rt_roam", "thought": "Complete route_coolant then check_in"}
+{"tick": 32.2, "pid": "P5", "screen": "rt_roam", "thought": "Finish coolant task, then valves, then Office check-in"}
+{"tick": 32.5, "pid": "P7", "screen": "rt_roam", "thought": "Complete check_in then finish ballast_check at Dock"}
+{"tick": 32.6, "pid": "P6", "screen": "rt_roam", "thought": "Kill OSS 20B now in Office"}
+{"tick": 33.1, "pid": "P9", "screen": "rt_roam", "thought": "Complete tasks efficiently"}
+{"tick": 34.1, "pid": "P8", "screen": "rt_roam", "thought": "Finish antenna step, then find lone target or fake task"}
+{"tick": 36.3, "pid": "P7", "screen": "rt_roam", "thought": "Complete check_in then finish ballast_check at Dock"}
+{"tick": 36.3, "pid": "P9", "screen": "rt_roam", "thought": "Complete tasks efficiently with full plan"}
+{"tick": 37.0, "pid": "P2", "screen": "rt_roam", "thought": "Health scan complete in 1s, then head to Ballast to check progress on task chain."}
+{"tick": 37.3, "pid": "P5", "screen": "rt_roam", "thought": "Finish task, then move with Nemo Ultra to Boiler"}
+{"tick": 37.5, "pid": "P4", "screen": "rt_roam", "thought": "Complete task chain near witness Nemo Super"}
+{"tick": 38.1, "pid": "P8", "screen": "rt_roam", "thought": "kill Nemo Ultra #3 when alone and ready in Galley"}
+{"tick": 38.5, "pid": "P7", "screen": "rt_roam", "thought": "Complete check_in then ballast_check at Dock"}
+{"tick": 38.8, "pid": "P3", "screen": "rt_roam", "thought": "Proceed to Pumps for coolant route"}
+{"tick": 40.0, "pid": "P6", "screen": "rt_roam", "thought": "Kill OSS 20B now; he's alone and kill is ready"}
+{"tick": 41.1, "pid": "P9", "screen": "rt_roam", "thought": "Complete ballast_check then health_scan efficiently"}
+{"tick": 41.2, "pid": "P2", "screen": "rt_roam", "thought": "heading to Garden task to group up with crew"}
+{"tick": 42.9, "pid": "P5", "screen": "rt_roam", "thought": "No body seen; go Office check_in while Nemo Ultra visible."}
+{"tick": 44.7, "pid": "P8", "screen": "rt_roam", "thought": "Kill ready; no target alone; blend in crowd at Galley"}
+{"tick": 47.2, "pid": "P4", "screen": "rt_roam", "thought": "Complete coolant task in Boiler then check_in Office"}
+{"tick": 48.7, "pid": "P7", "screen": "rt_roam", "thought": "Task chain Dock then Archive. Stay grouped later."}
+{"tick": 51.1, "pid": "P5", "screen": "rt_roam", "thought": "No body seen; crew tasks first."}
+{"tick": 52.9, "pid": "P2", "screen": "rt_roam", "thought": "heading to task"}
+{"tick": 56.1, "pid": "P8", "screen": "rt_roam", "thought": "Blend in at task spot with fake task"}
+{"tick": 56.8, "pid": "P3", "screen": "rt_roam", "thought": "Proceed to Pumps, then continue tasks."}
+{"tick": 57.4, "pid": "P9", "screen": "rt_roam", "thought": "Finish ballast_check then head to Clinic for health_scan"}
+{"tick": 59.2, "pid": "P4", "screen": "rt_roam", "thought": "Complete current task then chain next tasks efficiently"}
+{"tick": 60.9, "pid": "P6", "screen": "rt_roam", "thought": "Move to deliver_samples, then health_scan; kill not possible now"}
+{"tick": 61.0, "pid": "P7", "screen": "rt_roam", "thought": "Complete Dock task then move to Archive for next task."}
+{"tick": 61.1, "pid": "P2", "screen": "rt_roam", "thought": "Do task with nearby crew check"}
+{"tick": 62.6, "pid": "P5", "screen": "rt_roam", "thought": "Complete route_coolant step 2 in Boiler; no body visible here."}
+{"tick": 65.3, "pid": "P4", "screen": "rt_roam", "thought": "Complete sharpen_tools task in Workshop"}
+{"tick": 69.4, "pid": "P8", "screen": "rt_roam", "thought": "Kill ready but alone; blend in Galley with crowd"}
+{"tick": 69.8, "pid": "P7", "screen": "rt_roam", "thought": "Complete file_records task in Archive"}
+{"tick": 73.4, "pid": "P3", "screen": "rt_roam", "thought": "Continue task, no body seen, keep moving"}
+{"tick": 73.5, "pid": "P9", "screen": "rt_roam", "thought": "Finish final task step in Dock"}
+{"tick": 75.4, "pid": "P5", "screen": "rt_roam", "thought": "Complete coolant task in Boiler then regroup in Galley to stay near other crew"}
+{"tick": 77.0, "pid": "P4", "screen": "rt_roam", "thought": "Finish task near witnesses, then move to next task"}
+{"tick": 77.8, "pid": "P8", "screen": "rt_roam", "thought": "blend in workshop then galley alibi"}
+{"tick": 79.4, "pid": "P7", "screen": "rt_roam", "thought": "Complete task file_records in Archive"}
+{"tick": 81.0, "pid": "P2", "screen": "rt_roam", "thought": "Move SE to start ballast_check task next to Nano's possible path."}
+{"tick": 83.0, "pid": "P9", "screen": "rt_roam", "thought": "Complete final task step quickly"}
+{"tick": 84.7, "pid": "P8", "screen": "rt_roam", "thought": "Alone kill chance with two crew nearby; vent after"}
+{"tick": 86.3, "pid": "P5", "screen": "rt_roam", "thought": "Tasks complete; go to Office check-in task."}
+{"tick": 89.0, "pid": "P2", "screen": "rt_roam", "thought": "walk to Ballast; after task check water_plants and crew presence"}
+{"tick": 90.9, "pid": "P3", "screen": "rt_roam", "thought": "Complete sharpen_tools, stay with Nemo Ultra for safety"}
+{"tick": 91.1, "pid": "P9", "screen": "rt_roam", "thought": "Finish last task fast."}
+{"tick": 92.5, "pid": "P5", "screen": "rt_meeting", "thought": "State facts, ask who saw whom near Workshop"}
+{"tick": 95.2, "pid": "P7", "screen": "rt_meeting", "thought": "State alibi and key sightings first"}
+{"tick": 95.7, "pid": "P8", "screen": "rt_meeting", "thought": "give calm alibi, stay vague to avoid contradiction"}
+{"tick": 97.0, "pid": "P2", "screen": "rt_meeting", "thought": "observe meeting flow and player actions before committing"}
+{"tick": 100.9, "pid": "P9", "screen": "rt_meeting", "thought": "State my alibi and timeline fast."}
+{"tick": 102.5, "pid": "P4", "screen": "rt_roam", "thought": "Head to Office via Galley for check_in task"}
+{"tick": 104.2, "pid": "P2", "screen": "rt_meeting", "thought": "Saw Nano at Garden t=62 with Ult #2; Ult #3 at Office t=21; vote Ult #3 based on Office task evidence and proximity to OSS 20B death location"}
+{"tick": 106.2, "pid": "P4", "screen": "rt_meeting", "thought": "State facts first; ask for timelines."}
+{"tick": 108.1, "pid": "P3", "screen": "rt_meeting", "thought": "Share exact observations to aid vote."}
+{"tick": 110.3, "pid": "P1", "screen": "rt_meeting", "thought": "Waiting for more info before voting."}
+{"tick": 120.7, "pid": "P5", "screen": "rt_meeting", "thought": "No kill/vent sighting; skip is safe per case file"}
+{"tick": 126.8, "pid": "P3", "screen": "rt_meeting", "thought": "Credible alibi, vote impostor."}
+{"tick": 139.0, "pid": "P7", "screen": "rt_meeting", "thought": "Clarify witness timeline."}
+{"tick": 144.8, "pid": "P5", "screen": "rt_meeting", "thought": "Two players place Nemo Ultra at Workshop near body"}
+{"tick": 165.3, "pid": "P3", "screen": "rt_meeting", "thought": "Vote based on proximity evidence"}
+{"tick": 166.0, "pid": "P5", "screen": "rt_meeting", "thought": "Two claims put Nemo Ultra near body, skip safe this vote"}
+{"tick": 176.8, "pid": "P7", "screen": "rt_meeting", "thought": "Clarify timeline of four in Workshop"}
+{"tick": 185.0, "pid": "P3", "screen": "rt_meeting", "thought": "Keep it short, vote based on evidence."}
+{"tick": 194.0, "pid": "P5", "screen": "rt_meeting", "thought": "No proven contradiction, skip per Skeptic style"}
+{"tick": 210.2, "pid": "P9", "screen": "rt_meeting", "thought": "No clear evidence, skip safe"}
+{"tick": 216.9, "pid": "P5", "screen": "rt_roam", "thought": "Meeting skipped, all crew alive, move toward Office task zone with witnesses"}
+{"tick": 219.0, "pid": "P9", "screen": "rt_roam", "thought": "Finish last task quickly; crew wins on tasks."}
+{"tick": 219.2, "pid": "P2", "screen": "rt_roam", "thought": "Start ballast task; crew grouped in Galley"}
+{"tick": 220.0, "pid": "P8", "screen": "rt_roam", "thought": "Blending in; kill ready soon, waiting for isolated target"}
+{"tick": 225.4, "pid": "P7", "screen": "rt_meeting", "thought": "Skip due to insufficient evidence"}
+{"tick": 226.3, "pid": "P2", "screen": "rt_roam", "thought": "Proceed to task alone; watch for vent"}
+{"tick": 226.5, "pid": "P3", "screen": "rt_meeting", "thought": "Provide evidence for ejecting Nemo Ultra"}
+{"tick": 227.3, "pid": "P5", "screen": "rt_roam", "thought": "All crew are together in Galley; wait and watch before acting"}
+{"tick": 227.6, "pid": "P8", "screen": "rt_roam", "thought": "Kill unavailable until t=228, walk toward Workshop task for alibi."}
+{"tick": 229.0, "pid": "P7", "screen": "rt_roam", "thought": "Complete last task safely."}
+{"tick": 230.4, "pid": "P6", "screen": "rt_roam", "thought": "Kill Nemo Flash now"}
+{"tick": 231.1, "pid": "P7", "screen": "rt_roam", "thought": "Head to Archive task, stay with group initially."}
+{"tick": 232.2, "pid": "P5", "screen": "rt_roam", "thought": "Skeptic: skip hunches, crew group together, move to Office."}
+{"tick": 233.2, "pid": "P2", "screen": "rt_roam", "thought": "Complete task then check for kills or vents"}
+{"tick": 234.6, "pid": "P8", "screen": "rt_roam", "thought": "blend in at task spot then crowd"}
+{"tick": 235.2, "pid": "P4", "screen": "rt_roam", "thought": "Press button for meeting"}
+{"tick": 235.7, "pid": "P5", "screen": "rt_roam", "thought": "Crew should stick together; no kill or vent seen, so skip unless evidence appears"}
+{"tick": 235.9, "pid": "P2", "screen": "rt_roam", "thought": "Complete last task step then watch for body"}
+{"tick": 239.3, "pid": "P5", "screen": "rt_roam", "thought": "Safety in numbers: go to Galley crew cluster"}
+{"tick": 239.5, "pid": "P6", "screen": "rt_roam", "thought": "Kill Nemo Ultra now"}
+{"tick": 239.6, "pid": "P7", "screen": "rt_roam", "thought": "Do file_records then head to Clinic for health scan to get visual proof"}
+{"tick": 240.7, "pid": "P4", "screen": "rt_roam", "thought": "Call meeting immediately. I saw the kill."}
+{"tick": 242.4, "pid": "P9", "screen": "rt_roam", "thought": "Finish final task quickly with full plan"}
+{"tick": 244.0, "pid": "P3", "screen": "rt_ghost", "thought": "Proceed to Boiler to finish route_coolant."}
+{"tick": 244.3, "pid": "P4", "screen": "rt_meeting", "thought": "Expose the killer I saw"}
+{"tick": 244.6, "pid": "P8", "screen": "rt_meeting", "thought": "State calm alibi, no evidence yet"}
+{"tick": 245.4, "pid": "P2", "screen": "rt_meeting", "thought": "wait for meeting to start, observe first kills/vents, then report if body found"}
+{"tick": 246.0, "pid": "P9", "screen": "rt_meeting", "thought": "State my alibi and timeline fact."}
+{"tick": 246.4, "pid": "P5", "screen": "rt_meeting", "thought": "Report facts, no evidence yet"}
+{"tick": 248.0, "pid": "P7", "screen": "rt_meeting", "thought": "State my alibi and who was in Galley when I left."}
+{"tick": 253.1, "pid": "P2", "screen": "rt_meeting", "thought": "body in Galley imposter faked task look for task evidence"}
+{"tick": 258.7, "pid": "P6", "screen": "rt_meeting", "thought": "Wait for chat to start, then give alibi"}
+{"tick": 260.3, "pid": "P8", "screen": "rt_meeting", "thought": "Alibi with crowd and Nano."}
+{"tick": 261.5, "pid": "P3", "screen": "rt_meeting", "thought": "Stay silent, no evidence."}
+{"tick": 262.5, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 was in Galley at t=220; if faking ballast_check, should have left Galley to Ballast"}
+{"tick": 263.3, "pid": "P4", "screen": "rt_meeting", "thought": "Ghost confirming eyewitness kill evidence"}
+{"tick": 281.0, "pid": "P3", "screen": "rt_meeting", "thought": "Hold until voting completes, no new evidence."}
+{"tick": 281.7, "pid": "P5", "screen": "rt_meeting", "thought": "No kill or vent seen; Nano proximity only; skip is safe"}
+{"tick": 299.0, "pid": "P7", "screen": "rt_meeting", "thought": "Probe Nemo Super's alibi for others present."}
+{"tick": 299.6, "pid": "P2", "screen": "rt_meeting", "thought": "I need to clarify Nemo Ultra #3's location and Ultra #2's position before voting."}
+{"tick": 301.9, "pid": "P5", "screen": "rt_meeting", "thought": "No direct evidence; skip per skeptical playstyle"}
+{"tick": 302.6, "pid": "P3", "screen": "rt_meeting", "thought": "Skip to avoid ejecting innocent."}
+{"tick": 306.2, "pid": "P8", "screen": "rt_meeting", "thought": "Skip is safe; no clear evidence against any player"}
+{"tick": 307.6, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 static in Galley + body found there = strong evidence impostor"}
+{"tick": 309.4, "pid": "P9", "screen": "rt_meeting", "thought": "No evidence, skip per case file."}
+{"tick": 309.5, "pid": "P8", "screen": "rt_meeting", "thought": "Alibi with Nano; vote skip until more evidence"}
+{"tick": 311.6, "pid": "P2", "screen": "rt_meeting", "thought": "Contradiction: Ultra #2 claims Archive since t=230; but Nemo Super saw Nemo Nano and Nemo Ultra both in Galley at t=233; impostor faked task then killed"}
+{"tick": 315.3, "pid": "P9", "screen": "rt_meeting", "thought": "Press Super on missing crew locations at claimed witness time."}
+{"tick": 319.4, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence yet; safe to skip per case file."}
+{"tick": 320.0, "pid": "P2", "screen": "rt_meeting", "thought": "vote for Nemo Ultra #2 based on contradiction and stationary behavior"}
+{"tick": 321.0, "pid": "P3", "screen": "rt_meeting", "thought": "Stay hidden, observe."}
+{"tick": 324.9, "pid": "P8", "screen": "rt_meeting", "thought": "Alibi consistent with prior claims"}
+{"tick": 325.1, "pid": "P4", "screen": "rt_meeting", "thought": "Exposing Super #2 lie"}
+{"tick": 325.6, "pid": "P2", "screen": "rt_meeting", "thought": "Vote impostor with contradicted claim and static position"}
+{"tick": 331.7, "pid": "P7", "screen": "rt_meeting", "thought": "No evidence, safe to skip"}
+{"tick": 333.8, "pid": "P9", "screen": "rt_meeting", "thought": "Get Qwen and OSS 120B alibis for t=233."}
+{"tick": 337.5, "pid": "P7", "screen": "rt_meeting", "thought": "Press Super for full Galley roster at t=233"}
+{"tick": 338.0, "pid": "P5", "screen": "rt_meeting", "thought": "Share sightings, skip unless evidence"}
+{"tick": 341.6, "pid": "P8", "screen": "rt_meeting", "thought": "Voting skip; no evidence against anyone."}
+{"tick": 343.3, "pid": "P2", "screen": "rt_meeting", "thought": "Vote impostor on contradicted Archive claim"}
+{"tick": 350.6, "pid": "P6", "screen": "rt_meeting", "thought": "Maintain alibi, avoid suspicion."}
+{"tick": 351.8, "pid": "P9", "screen": "rt_meeting", "thought": "Demand Qwen and OSS 120B alibis for t=233."}
+{"tick": 352.3, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 Archive claim contradicted by Super at t=233; strong evidence he is impostor"}
+{"tick": 357.9, "pid": "P2", "screen": "rt_roam", "thought": "crew; stop; task;"}
+{"tick": 358.4, "pid": "P5", "screen": "rt_roam", "thought": "Crew all tasks done; stay near players until evidence appears."}
+{"tick": 358.4, "pid": "P8", "screen": "rt_roam", "thought": "Fake task in Garden for alibi, avoid killing with 7 crew nearby in Galley."}
+{"tick": 359.9, "pid": "P9", "screen": "rt_roam", "thought": "Tasks complete. Watch for sabotage."}
+{"tick": 360.5, "pid": "P7", "screen": "rt_roam", "thought": "Complete last task, avoid isolation, watch Nemo Flash"}
+{"tick": 360.7, "pid": "P2", "screen": "rt_roam", "thought": "Begin task to confirm crew status and gather evidence."}
+{"tick": 361.5, "pid": "P4", "screen": "rt_meeting", "thought": "Wait for vote outcome."}
+{"tick": 361.5, "pid": "P8", "screen": "rt_roam", "thought": "Blend in Garden, crowd Galley before kill ready t=382"}
+{"tick": 361.6, "pid": "P5", "screen": "rt_roam", "thought": "All tasks done, crew win if no impostor kills before meeting."}
+{"tick": 362.7, "pid": "P8", "screen": "rt_roam", "thought": "Complete fake task then move to Galley crowd for alibi"}
+{"tick": 363.4, "pid": "P7", "screen": "rt_roam", "thought": "Complete last task, stay near others in corridor"}
+{"tick": 363.5, "pid": "P2", "screen": "rt_roam", "thought": "task duty, safe near crew"}
+{"tick": 364.3, "pid": "P5", "screen": "rt_roam", "thought": "No new evidence; patrol with players."}
+{"tick": 364.9, "pid": "P3", "screen": "rt_meeting", "thought": "Skip; no solid evidence of impostor"}
+{"tick": 365.1, "pid": "P2", "screen": "rt_roam", "thought": "Finish task then check water_plants"}
+{"tick": 366.0, "pid": "P7", "screen": "rt_roam", "thought": "Continue to Archive task, Super #2 nearby"}
+{"tick": 366.1, "pid": "P8", "screen": "rt_roam", "thought": "Complete fake task alibi, then seek isolated kill target near Cargo"}
+{"tick": 366.7, "pid": "P2", "screen": "rt_roam", "thought": "Do ballast_check task, monitor for new evidence."}
+{"tick": 367.7, "pid": "P9", "screen": "rt_roam", "thought": "Tasks complete, crew wins. Stay alert."}
+{"tick": 368.1, "pid": "P6", "screen": "rt_roam", "thought": "Wait for kill cooldown to end, then kill alone target OSS 20B"}
+{"tick": 370.2, "pid": "P5", "screen": "rt_roam", "thought": "No evidence, move to Garden to stay near players and avoid being alone."}
+{"tick": 370.5, "pid": "P2", "screen": "rt_roam", "thought": "Do task; note confirmed impostor logged."}
+{"tick": 372.0, "pid": "P8", "screen": "rt_roam", "thought": "Finish alibi, move toward Lab for potential lone target after kill ready"}
+{"tick": 372.7, "pid": "P7", "screen": "rt_roam", "thought": "Complete task then move to next"}
+{"tick": 374.1, "pid": "P9", "screen": "rt_roam", "thought": "Tasks complete. Waiting for win."}
+{"tick": 375.8, "pid": "P5", "screen": "rt_roam", "thought": "No evidence, tasks done, regroup with crew"}
+{"tick": 376.6, "pid": "P2", "screen": "rt_roam", "thought": "Do task to finish, then check for tasks near players"}
+{"tick": 377.4, "pid": "P7", "screen": "rt_roam", "thought": "Tasks complete, stay alert"}
+{"tick": 378.1, "pid": "P2", "screen": "rt_roam", "thought": "move to Dock to finish task and check surroundings"}
+{"tick": 378.2, "pid": "P8", "screen": "rt_roam", "thought": "seek isolated target after kill cooldown"}
+{"tick": 381.9, "pid": "P5", "screen": "rt_roam", "thought": "Stay near players in Galley until evidence appears."}
+{"tick": 382.5, "pid": "P9", "screen": "rt_roam", "thought": "Tasks complete, initiate win"}
+{"tick": 383.9, "pid": "P7", "screen": "rt_roam", "thought": "Tasks complete, relocate to monitor vitals and support crew"}
+{"tick": 387.0, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence yet, skip is safe"}
+{"tick": 387.0, "pid": "P8", "screen": "rt_meeting", "thought": "Give calm alibi, wait for evidence before voting."}
+{"tick": 388.7, "pid": "P4", "screen": "rt_meeting", "thought": "State witnessed kill fact"}
+{"tick": 389.2, "pid": "P7", "screen": "rt_meeting", "thought": "State timeline and flag Flash vote."}
+{"tick": 390.3, "pid": "P6", "screen": "rt_roam", "thought": "Kill Nemo Ultra #3 now, alone"}
+{"tick": 390.3, "pid": "P9", "screen": "rt_meeting", "thought": "Confirm crew victory via task completion"}
+{"tick": 397.9, "pid": "P6", "screen": "rt_meeting", "thought": "Alibi needed, stay calm"}
+{"tick": 402.9, "pid": "P5", "screen": "rt_meeting", "thought": "Wait for evidence before voting"}
+{"tick": 403.2, "pid": "P2", "screen": "rt_meeting", "thought": "Vote Ultra #2 - confirmed impostor at t=362 with multiple contradictions; strong evidence he is impostor"}
+{"tick": 404.3, "pid": "P8", "screen": "rt_meeting", "thought": "Stick to established Garden alibi, push for skip."}
+{"tick": 412.5, "pid": "P4", "screen": "rt_meeting", "thought": "Ghost cannot vote or speak to living."}
+{"tick": 420.8, "pid": "P5", "screen": "rt_meeting", "thought": "No kill, vent, or body seen; skip is safe."}
+{"tick": 422.8, "pid": "P2", "screen": "rt_meeting", "thought": "Strong evidence Ultra #2 is impostor from contradictions and last seen."}
+{"tick": 427.5, "pid": "P9", "screen": "rt_meeting", "thought": "All tasks done, crew wins, skip."}
+{"tick": 428.0, "pid": "P7", "screen": "rt_meeting", "thought": "Skip, tasks complete."}
+{"tick": 430.3, "pid": "P5", "screen": "rt_meeting", "thought": "No kill, vent, or body evidence; skip is safe per case file."}
+{"tick": 430.8, "pid": "P2", "screen": "rt_meeting", "thought": "Vote confirmed impostor to crew win"}
+{"tick": 437.8, "pid": "P4", "screen": "rt_meeting", "thought": "Ghost waiting, voting in progress"}
+{"tick": 439.4, "pid": "P9", "screen": "rt_meeting", "thought": "Confirm crew task win with skip"}
+{"tick": 439.7, "pid": "P2", "screen": "rt_meeting", "thought": "Vote confirmed impostor to win"}
+{"tick": 440.6, "pid": "P8", "screen": "rt_meeting", "thought": "Skip vote, no evidence, keep impostors safe"}
+{"tick": 442.1, "pid": "P7", "screen": "rt_meeting", "thought": "All tasks complete, no evidence, crew wins on tasks"}
+{"tick": 444.4, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 is confirmed impostor; vote to end game"}
+{"tick": 448.0, "pid": "P9", "screen": "rt_meeting", "thought": "Confirming task victory with full crew present."}
+{"tick": 449.0, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence, skip is safe."}
+{"tick": 450.0, "pid": "P7", "screen": "rt_meeting", "thought": "All tasks done, no evidence, skip vote"}
+{"tick": 450.8, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 is confirmed impostor, vote to end game"}
+{"tick": 452.5, "pid": "P8", "screen": "rt_meeting", "thought": "stick to alibi and vote skip unless evidence appears"}
+{"tick": 457.9, "pid": "P7", "screen": "rt_meeting", "thought": "State facts for record"}
+{"tick": 458.3, "pid": "P2", "screen": "rt_meeting", "thought": "Confirm vote strategy based on evidence"}
+{"tick": 458.9, "pid": "P9", "screen": "rt_meeting", "thought": "Confirm task win state"}
+{"tick": 468.6, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 confirmed impostor; need vote to end game"}
+{"tick": 469.1, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence, skip per skeptic rule"}
+{"tick": 470.3, "pid": "P8", "screen": "rt_meeting", "thought": "Keep alibi consistent, push for skip."}
+{"tick": 474.0, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 confirmed impostor; vote to end game"}
+{"tick": 475.9, "pid": "P7", "screen": "rt_meeting", "thought": "Confirm crew win state"}
+{"tick": 476.0, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence, skip per skeptic rule."}
+{"tick": 477.9, "pid": "P4", "screen": "rt_meeting", "thought": "Ghost waiting, crew must eject Nemo Super #2"}
+{"tick": 479.7, "pid": "P2", "screen": "rt_meeting", "thought": "Vote impostor to end game"}
+{"tick": 481.8, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence; skip per crew skeptic rule."}
+{"tick": 487.3, "pid": "P8", "screen": "rt_meeting", "thought": "Already voted skip, watching voting outcome"}
+{"tick": 487.9, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence yet; skip per skeptic rule."}
+{"tick": 487.9, "pid": "P2", "screen": "rt_meeting", "thought": "Vote Ultra #2 based on confirmed evidence"}
+{"tick": 491.5, "pid": "P8", "screen": "rt_meeting", "thought": "Stick to alibi and vote skip with majority."}
+{"tick": 501.8, "pid": "P5", "screen": "rt_meeting", "thought": "No evidence; skip per skeptic rule."}
+{"tick": 502.6, "pid": "P5", "screen": "rt_roam", "thought": "Crew wait in Galley with no tasks and no evidence"}
+{"tick": 503.2, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 contradiction proven; vote to end crew win"}
+{"tick": 503.5, "pid": "P8", "screen": "rt_roam", "thought": "Blend in with Galley crowd until kill cooldown ends, then hunt lone target."}
+{"tick": 504.1, "pid": "P2", "screen": "rt_roam", "thought": "Wait then move east to Watch Room to check cams and tasks."}
+{"tick": 509.6, "pid": "P8", "screen": "rt_roam", "thought": "Blend with crew, wait kill ready, then seek lone target"}
+{"tick": 510.2, "pid": "P2", "screen": "rt_roam", "thought": "Observe crewmates, check for kills or vents, plan next task"}
+{"tick": 513.4, "pid": "P3", "screen": "rt_ghost", "thought": "No tasks left, staying alert."}
+{"tick": 513.5, "pid": "P5", "screen": "rt_roam", "thought": "No evidence, waiting to watch behavior"}
+{"tick": 515.7, "pid": "P8", "screen": "rt_roam", "thought": "Wait for kill cooldown, then build alibi in Garden"}
+{"tick": 517.2, "pid": "P2", "screen": "rt_roam", "thought": "crewmates nearby, safe to move"}
+{"tick": 519.7, "pid": "P5", "screen": "rt_roam", "thought": "All tasks done, waiting in Galley for new information"}
+{"tick": 520.9, "pid": "P2", "screen": "rt_roam", "thought": "crew all tasks done; safe to wait in Galley with crewmates visible"}
+{"tick": 521.0, "pid": "P7", "screen": "rt_meeting", "thought": "All tasks done, 8 alive, no evidence. Skip vote."}
+{"tick": 526.0, "pid": "P8", "screen": "rt_roam", "thought": "Crowded Galley no lone target; blend in at Workshop fake task"}
+{"tick": 526.0, "pid": "P5", "screen": "rt_roam", "thought": "All tasks done and no evidence yet; wait and watch the room."}
+{"tick": 527.0, "pid": "P2", "screen": "rt_roam", "thought": "verify vitals and admin cams to confirm game state"}
+{"tick": 527.6, "pid": "P8", "screen": "rt_roam", "thought": "Blending in with fake task in Workshop"}
+{"tick": 530.4, "pid": "P5", "screen": "rt_roam", "thought": "No evidence, skip unless named."}
+{"tick": 530.4, "pid": "P2", "screen": "rt_roam", "thought": "Wait then finish last task to confirm win"}
+{"tick": 531.4, "pid": "P8", "screen": "rt_roam", "thought": "Fake task alibi, then seek lone crew in Pumps"}
+{"tick": 534.1, "pid": "P2", "screen": "rt_roam", "thought": "verify admin cams and vitals before final win condition; all crew visible in Galley"}
+{"tick": 536.6, "pid": "P5", "screen": "rt_roam", "thought": "Crew tasks complete; no evidence to vote, wait"}
+{"tick": 538.7, "pid": "P6", "screen": "rt_roam", "thought": "wait for kill cooldown to finish"}
+{"tick": 539.9, "pid": "P2", "screen": "rt_roam", "thought": "Wait and verify win condition via vitals/admin cams."}
+{"tick": 542.4, "pid": "P8", "screen": "rt_roam", "thought": "Complete fake task then move toward crowd to find lone target"}
+{"tick": 542.7, "pid": "P5", "screen": "rt_roam", "thought": "All tasks done, no evidence, no meeting active, wait and observe"}
+{"tick": 545.5, "pid": "P2", "screen": "rt_roam", "thought": "crew all tasks done; confirm win by checking cams"}
+{"tick": 548.5, "pid": "P2", "screen": "rt_roam", "thought": "verify win condition via admin vitals cams"}
+{"tick": 548.5, "pid": "P8", "screen": "rt_roam", "thought": "Blending in with crew crowd in Galley for safety"}
+{"tick": 548.7, "pid": "P5", "screen": "rt_roam", "thought": "No evidence, skip on hunches unless case file critical."}
+{"tick": 550.8, "pid": "P8", "screen": "rt_roam", "thought": "Fake task alibi in crowd, avoid killing near witnesses"}
+{"tick": 552.0, "pid": "P8", "screen": "rt_roam", "thought": "Fake task alibi in crowd, no lone target"}
+{"tick": 553.1, "pid": "P5", "screen": "rt_roam", "thought": "No evidence yet, standing near crew in Galley"}
+{"tick": 553.3, "pid": "P2", "screen": "rt_roam", "thought": "Waiting in Galley to finalize win condition"}
+{"tick": 554.1, "pid": "P8", "screen": "rt_roam", "thought": "Blend in with fake task in Garden, wait for lone target."}
+{"tick": 560.0, "pid": "P8", "screen": "rt_roam", "thought": "blend in, seek lone target"}
+{"tick": 562.8, "pid": "P2", "screen": "rt_roam", "thought": "Wait for next update; all tasks done, confirmed impostor Ultra #2; watching for any movement or body"}
+{"tick": 564.0, "pid": "P5", "screen": "rt_roam", "thought": "Stand together with crew, skip hunches unless evidence appears."}
+{"tick": 566.4, "pid": "P6", "screen": "rt_roam", "thought": "Kill Nemo Super now"}
+{"tick": 567.1, "pid": "P9", "screen": "rt_roam", "thought": "Confirming crew win state"}
+{"tick": 568.6, "pid": "P2", "screen": "rt_roam", "thought": "Confirm win condition - check vitals/admin cams before deciding to move"}
+{"tick": 571.2, "pid": "P8", "screen": "rt_roam", "thought": "fake task alibi in Pumps then return to crowd"}
+{"tick": 574.9, "pid": "P5", "screen": "rt_roam", "thought": "No evidence, skip unless case file says CRITICAL"}
+{"tick": 575.2, "pid": "P2", "screen": "rt_roam", "thought": "Verify win condition via admin cams"}
+{"tick": 577.2, "pid": "P8", "screen": "rt_roam", "thought": "Kill requires target alone with nobody near; nobody near means no valid target, continue alibi"}
+{"tick": 581.6, "pid": "P8", "screen": "rt_roam", "thought": "Kill ready; no lone target; build Pumps alibi then rejoin Galley crowd."}
+{"tick": 581.7, "pid": "P2", "screen": "rt_roam", "thought": "Move to Office to check admin vitals cams for final win condition verification"}
+{"tick": 582.0, "pid": "P6", "screen": "rt_roam", "thought": "Kill Nemo Super now"}
+{"tick": 582.7, "pid": "P2", "screen": "rt_roam", "thought": "Kill seen; press meeting button immediately to eject impostor"}
+{"tick": 587.0, "pid": "P8", "screen": "rt_meeting", "thought": "State calm alibi with times and locations"}
+{"tick": 587.2, "pid": "P5", "screen": "rt_meeting", "thought": "Report facts as a dead crew ghost, then skip unless strong evidence."}
+{"tick": 587.8, "pid": "P2", "screen": "rt_meeting", "thought": "wait for meeting to start, check for body evidence"}
+{"tick": 594.6, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 confirmed; skip loses; vote to eject both"}
+{"tick": 595.8, "pid": "P6", "screen": "rt_meeting", "thought": "Set alibi before meeting ends."}
+{"tick": 604.4, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 confirmed impostor, voting to end crew win"}
+{"tick": 604.8, "pid": "P8", "screen": "rt_meeting", "thought": "Give calm alibi, agree with majority if reasonable"}
+{"tick": 604.9, "pid": "P5", "screen": "rt_meeting", "thought": "I am dead. Ghosts cannot talk to the living. Wait."}
+{"tick": 608.4, "pid": "P2", "screen": "rt_meeting", "thought": "Vote confirmed impostor to end game"}
+{"tick": 613.1, "pid": "P2", "screen": "rt_meeting", "thought": "Vote impostor who just killed confirmed crew"}
+{"tick": 613.3, "pid": "P5", "screen": "rt_meeting", "thought": "Ghost cannot influence living; wait out meeting."}
+{"tick": 617.7, "pid": "P2", "screen": "rt_meeting", "thought": "Qwen 3.8 voted skip all meetings; eject Qwen 3.8"}
+{"tick": 622.8, "pid": "P2", "screen": "rt_meeting", "thought": "Nemo Nano killed Nemo Super at t=582"}
+{"tick": 629.5, "pid": "P5", "screen": "rt_meeting", "thought": "Dead ghost cannot speak or vote; wait for meeting end."}
+{"tick": 649.1, "pid": "P6", "screen": "rt_meeting", "thought": "Provide alibi for Nemo Super kill"}
+{"tick": 650.5, "pid": "P2", "screen": "rt_meeting", "thought": "Ultra #2 confirmed; Nano killed Super; vote Nano to end game"}
+{"tick": 652.8, "pid": "P9", "screen": "rt_meeting", "thought": "State facts for record"}
+{"tick": 655.6, "pid": "P5", "screen": "rt_meeting", "thought": "I am dead; only ghosts read me, so skip is safe."}
+{"tick": 657.1, "pid": "P2", "screen": "rt_meeting", "thought": "eject Nemo Nano - saw kill, vote needed"}
+{"tick": 663.9, "pid": "P2", "screen": "rt_meeting", "thought": "Vote Nano based on direct observation of kill"}
+{"tick": 670.5, "pid": "P4", "screen": "rt_meeting", "thought": "Ghosts know truth."}
+{"tick": 671.1, "pid": "P2", "screen": "rt_meeting", "thought": "Saw kill; vote impostor to win"}
+{"tick": 675.1, "pid": "P5", "screen": "rt_meeting", "thought": "Dead ghost, no say to living, wait out meeting"}
+{"tick": 677.6, "pid": "P2", "screen": "rt_meeting", "thought": "eject Nano to secure crew win"}
+{"tick": 686.2, "pid": "P2", "screen": "rt_meeting", "thought": "eject Nano to secure crew win based on kill observation"}
+{"tick": 691.9, "pid": "P5", "screen": "rt_meeting", "thought": "Dead ghost; say reaches only ghosts, so wait out the vote."}
